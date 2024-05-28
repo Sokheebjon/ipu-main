@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "image": "1.2.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Magistratura",
+    "formats_ru": "Магистратура",
+    "formats_en": "Master's degree",
+    "title_uz": "Iqtisodiyot (tarmoqlar va saholar bo'yicha)",
+    "title_ru": "Экономика (по отраслям и секторам)",
+    "title_en": "Economics (by sectors and fields)",
+    "items": [
+      {
+        "format_uz": "Magistratura",
+        "format_ru": "Магистратура",
+        "format_en": "Master's degree",
+        "duration_uz": "2 yil",
+        "duration_ru": "2 года",
+        "duration_en": "2 years",
+        "price": "20 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "2.2.png",
+    "languages_uz": "Ingliz tili",
+    "languages_ru": "Английский язык",
+    "languages_en": "English language",
+    "formats_uz": "Magistratura",
+    "formats_ru": "Магистратура",
+    "formats_en": "Master's degree",
+    "title_uz": "Xorijiy til va adabiyoti: ingliz tili",
+    "title_ru": "Иностранный язык и литература: английский язык",
+    "title_en": "Foreign Language and Literature: English",
+    "items": [
+      {
+        "format_uz": "Magistratura",
+        "format_ru": "Магистратура",
+        "format_en": "Master's degree",
+        "duration_uz": "2 yil",
+        "duration_ru": "2 года",
+        "duration_en": "2 years",
+        "price": "20 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "3.2.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Magistratura",
+    "formats_ru": "Магистратура",
+    "formats_en": "Master's degree",
+    "title_uz": "Tarix",
+    "title_ru": "История",
+    "title_en": "History",
+    "items": [
+      {
+        "format_uz": "Magistratura",
+        "format_ru": "Магистратура",
+        "format_en": "Master's degree",
+        "duration_uz": "2 yil",
+        "duration_ru": "2 года",
+        "duration_en": "2 years",
+        "price": "20 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "4.2.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Magistratura",
+    "formats_ru": "Магистратура",
+    "formats_en": "Master's degree",
+    "title_uz": "Pedagogika va psixologiya",
+    "title_ru": "Педагогика и психология",
+    "title_en": "Pedagogy and Psychology",
+    "items": [
+      {
+        "format_uz": "Magistratura",
+        "format_ru": "Магистратура",
+        "format_en": "Master's degree",
+        "duration_uz": "2 yil",
+        "duration_ru": "2 года",
+        "duration_en": "2 years",
+        "price": "20 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1241 @@
+[
+  {
+    "id": 1,
+    "image": "1.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и Заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Iqtisodiyot (tarmoqlar va saholar bo'yicha)",
+    "title_ru": "Экономика (по отраслям и сферам)",
+    "title_en": "Economics (by sectors and fields)",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "15 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "format_ru": "Заочное",
+        "format_en": "Part-time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 лет",
+        "duration_en": "5 years",
+        "price": "13 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi “Iqtisodiyot” mutaxassisligi talabalarga iqtisodiyotning mikro va makro darajada qanday ishlashi haqida har tomonlama tushuncha beradi. Mikroiqtisodiyot kurslari orqali talabalar iste'molchilar va firmalar kabi individual iqtisodiy agentlarning xatti-harakatlarini o'rganadilar, talab va taklif, bozor tuzilmalari va tanqislik sharoitida qaror qabul qilish kabi mavzularni o'rganadilar. Makroiqtisodiyotda talabalar jami iqtisodiy hodisalarni, jumladan inflyatsiya, ishsizlik va iqtisodiy o'sishni, shuningdek, bu natijalarni shakllantirishda hukumat siyosatining rolini o'rganadilar. Ushbu ko'p tarmoqli soha talabalarni haqiqiy iqtisodiy muammolarni tahlil qilish va hal qilish uchun tahliliy ko'nikmalar va nazariy asoslar bilan jihozlaydi.",
+      "Asosiy iqtisodiy tamoyillarga qo'shimcha ravishda, Iqtisodiyot mutaxassisliklari ko'pincha fan doirasidagi ixtisoslashgan sohalarni o'rganish imkoniyatiga ega. Ekonometrika, xalqaro iqtisodiyot, iqtisodiy rivojlanish va xulq-atvor iqtisodiyoti kabi sohalardagi kurslar talabalarga iqtisodiy nazariyalarni turli kontekstlarda qo'llash vositalarini taqdim etadi. Savdo siyosatining jahon bozorlariga ta'sirini o'rganish yoki ijtimoiy farovonlik dasturlari samaradorligini tahlil qilish, talabalar iqtisodiy nazariyalar va modellar turli sohalarda qaror qabul qilishda qanday ma'lumot berishi mumkinligi haqida tushunchaga ega bo'ladilar.",
+      "Bundan tashqari, Iqtisodiyot mutaxassisligi turli sohalarda martaba uchun zarur bo'lgan tanqidiy fikrlash va muammolarni hal qilish ko'nikmalarini rivojlantiradi. Bitiruvchilar moliyaviy, konsalting, davlat siyosati, tadqiqot yoki akademiya sohalarida ma'lumotlarni tahlil qilish, tendentsiyalarni bashorat qilish va strategik qarorlar qabul qilishda ma'lumot berish uchun iqtisodiy tamoyillarni tushunishlaridan foydalanishlari mumkin. Miqdoriy tahlil, qat'iy fikrlash va fanlararo istiqbollarga e'tibor qaratgan holda, Iqtisodiyot yo'nalishi talabalarni global iqtisodiyotning murakkabliklarida harakat qilish va davlat va xususiy sektorda mazmunli o'zgarishlarga hissa qo'shishga tayyorlaydi."
+    ],
+    "descrption_ru": [
+      "Специальность \"Экономика\" на уровне бакалавриата дает студентам всеобъемлющее представление о том, как работает экономика на микро- и макроуровнях. Через курсы микроэкономики студенты изучают действия индивидуальных экономических агентов, таких как потребители и фирмы, принимают решения в условиях спроса и предложения, а также изучают темы, такие как рыночные структуры и конкуренция. В макроэкономике студенты изучают общие экономические явления, такие как инфляция, безработица и экономический рост, а также роль правительственной политики в формировании этих результатов. Этот многопрофильный курс готовит студентов анализировать и решать реальные экономические проблемы с аналитическими инструментами и теоретическими основами.",
+      "Кроме основных экономических тенденций, специализация в экономике дает возможность студентам изучать различные области, часто специализированные в области финансов, международной экономики, экономического развития и поведенческой экономики. Курсы в таких областях, как эконометрика, международная экономика, экономическое развитие и поведенческая экономика, предоставляют студентам инструменты для применения экономических теорий в различных контекстах. Студенты получают представление о том, как оценивать влияние торговой политики на мировые рынки или анализировать эффективность социальных программ благополучия.",
+      "Кроме того, специализация в экономике развивает умения студентов в критическом мышлении и решении проблем в различных областях. Они могут использовать экономические теории и модели для предоставления информации при принятии решений в различных областях, таких как финансы, консалтинг, государственная политика, исследования или академическая сфера. Благодаря количественному анализу, строгому анализу и ориентации на научные направления направление \"Экономика\" готовит студентов к участию в мировой экономике и внесению значимых изменений в государственном и частном секторе."
+    ],
+    "descrption_en": [
+      "The bachelor's degree program in Economics provides students with a comprehensive understanding of how economics operates at both micro and macro levels. Through microeconomics courses, students learn about the actions of individual economic agents such as consumers and firms, decision-making under conditions of supply and demand, and topics like market structures and competition. In macroeconomics, students study overall economic phenomena such as inflation, unemployment, and economic growth, as well as the role of government policy in shaping these outcomes. This multidisciplinary program prepares students to analyze and address real-world economic issues with analytical tools and theoretical foundations.",
+      "In addition to core economic trends, specializing in Economics allows students to explore various fields often specialized within finance, international economics, economic development, and behavioral economics. Courses in areas such as econometrics, international economics, economic development, and behavioral economics provide students with tools to apply economic theories in various contexts. They gain insights into assessing the impact of trade policy on global markets or analyzing the effectiveness of welfare social programs.",
+      "Furthermore, a specialization in Economics enhances students' abilities in critical thinking and problem-solving across various domains. They can leverage economic theories and models to provide information for decision-making in fields such as finance, consulting, government policy, research, or academia. With a focus on quantitative analysis, rigorous reasoning, and attention to scholarly trends, the Economics field prepares students to engage in the global economy and contribute to significant changes in both the public and private sectors."
+    ]
+  },
+  {
+    "id": 2,
+    "image": "2.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и Заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Moliya va moliyaviy texnologiyalar",
+    "title_ru": "Финансы и финансовые технологии",
+    "title_en": "Finance and Financial Technologies",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "15 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "format_ru": "Заочное",
+        "format_en": "Part-time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 лет",
+        "duration_en": "5 years",
+        "price": "13 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Ko'pincha universitetlarda fan sifatida taklif qilinadigan Moliya va moliyaviy texnologiyalar zamonaviy kontekstlarda pul, investitsiyalar va moliyaviy aktivlarni boshqarish tamoyillari va amaliyotlarini o'rganadi. Ushbu ko'p tarmoqli soha bank ishi, investitsiyalar, risklarni boshqarish va moliyaviy tartibga solish sohasidagi zamonaviy muammolarni hal qilish uchun an'anaviy moliya nazariyalarini ilg'or texnologik innovatsiyalar bilan uyg'unlashtiradi. Talabalar moliyaviy bozorlar, korporativ moliya, fintech innovatsiyalari, blokcheyn, algoritmik savdo va ma’lumotlar tahlili kabi mavzularni o‘rganadilar. O'quv dasturi talabalarni moliyaviy va rivojlanayotgan moliyaviy texnologiyalarning dinamik landshaftida harakat qilish uchun zarur bo'lgan tahliliy ko'nikmalar, tanqidiy fikrlash va texnologik mahorat bilan jihozlaydi."
+    ],
+    "descrption_ru": [
+      "Финансы и финансовые технологии, как правило, предлагаемые в качестве учебной программы в университетах, изучают современные методы управления деньгами, инвестициями и финансовыми активами. Этот многогранный область включает в себя изучение современных проблем банковской деятельности, инвестиций, управления рисками и финансовой регуляции для решения современных проблем в области финансов и управления. Студенты изучают такие темы, как финансовые рынки, корпоративные финансы, финтех инновации, блокчейн, алгоритмическая торговля и анализ данных. Учебный план оснащает студентов аналитическими инструментами и критическим мышлением для успешного функционирования в динамичной среде финансовых и развивающихся финансовых технологий."
+    ],
+    "descrption_en": [
+      "Finance and Financial Technologies, commonly offered as a subject in universities, explore modern methods of managing money, investments, and financial assets in contemporary contexts. This multidimensional field encompasses studying modern issues in banking, investments, risk management, and financial regulation to address contemporary challenges in finance and management. Students delve into topics such as financial markets, corporate finance, fintech innovations, blockchain, algorithmic trading, and data analysis. The curriculum equips students with analytical tools and critical thinking to thrive in the dynamic landscape of finance and emerging financial technologies."
+    ]
+  },
+  {
+    "id": 3,
+    "image": "3.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и Заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Bank ishi va auditi",
+    "title_ru": "Банковское дело и аудит",
+    "title_en": "Banking and Audit",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "15 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "format_ru": "Заочное",
+        "format_en": "Part-time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 лет",
+        "duration_en": "5 years",
+        "price": "13 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Iqtisodiyot va pedagogika universitetidagi Bank ishi va audit fakulteti talabalarga moliyaviy institutlarning murakkab ishi, me'yoriy-huquqiy bazalar va audit amaliyoti haqida to'liq tushuncha berishga bag'ishlangan. Nazariy kurs ishlari va amaliy tajribalar aralashmasi orqali ushbu fakultet talabalari bank ishi, moliya va auditning dinamik sohalarida ustunlik qilish uchun zarur bo'lgan bilim va ko'nikmalarga ega bo'ladilar.",
+      "Fakultetimiz tajribali mutaxassislar va obro'li akademiklardan iborat bo'lib, ular sinfga ko'plab sanoat tushunchalari va tajribalarini olib keladi. Fakultet a'zolarimiz real hayotdagi ilovalarga va rivojlanayotgan tendentsiyalarga e'tibor qaratgan holda, talabalarni bank ishi, audit, risklarni boshqarish va boshqa sohalarda muvaffaqiyatli martabaga tayyorlashga intiladi.",
+      "Talabalar tijorat banki, investitsiya banki, davlat buxgalteriya hisobi yoki me'yoriy-huquqiy hujjatlarga muvofiqlik sohasida rollarni bajarishga intiladimi, [Universitet nomi]dagi Bank ishi va audit fakulteti ularni tanqidiy fikrlash qobiliyatlari, tahliliy ko'nikmalar va axloqiy tamoyillar bilan ta'minlaydi. moliyaviy sektor va doimiy o'zgaruvchan global iqtisodiyotda ongli qarorlar qabul qilish."
+    ],
+    "descrption_ru": [
+      "Факультет банковского дела и аудита в [название университета] на экономическом и педагогическом уровнях предоставляет студентам полное понимание сложного мира финансовых институтов, правовых основ и аудита. Через сочетание теоретических и практических занятий студенты факультета приобретают знания и навыки, необходимые для успешной карьеры в динамичных областях банковского дела, финансов и аудита.",
+      "Наш факультет состоит из опытных специалистов и квалифицированных академиков, которые обладают широкими познаниями и опытом в промышленных представлениях и практике. Наши члены факультета ориентированы на реальные приложения и развивающиеся тенденции, подготавливая студентов к успешному преуспеванию в областях банковского дела, аудита, управления рисками и других областях.",
+      "Студенты получают навыки для выполнения ролей в коммерческих банках, инвестиционных банках, государственной бухгалтерии или в области юридических документов, таких как налоговое законодательство. Факультет банковского дела и аудита в [название университета] обеспечивает студентов аналитическими способностями, критическим мышлением и этическими принципами для принятия обоснованных решений и адаптации к постоянно меняющемуся глобальному экономическому окружению."
+    ],
+    "descrption_en": [
+      "The Banking and Audit faculty at [University name] provides students with a comprehensive understanding of the complex world of financial institutions, legal foundations, and auditing at both economic and pedagogical levels. Through a combination of theoretical coursework and practical experience, students of the faculty gain the knowledge and skills necessary for successful careers in dynamic fields of banking, finance, and auditing.",
+      "Our faculty consists of experienced professionals and qualified academics who possess broad knowledge and experience in industry insights and practice. Our faculty members are oriented towards real-world applications and emerging trends, preparing students for successful advancement in areas such as banking, auditing, risk management, and others.",
+      "Students acquire skills to fulfill roles in commercial banks, investment banks, government accounting, or in the field of legal documents such as tax legislation. The Banking and Audit faculty at [University name] equips students with analytical abilities, critical thinking, and ethical principles to make informed decisions and adapt to the constantly changing global economic environment."
+    ]
+  },
+  {
+    "id": 4,
+    "image": "4.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и Заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Boshlang'ich talim",
+    "title_ru": "Начальное образование",
+    "title_en": "Primary Education",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "format_ru": "Заочное",
+        "format_en": "Part-time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 лет",
+        "duration_en": "5 years",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi boshlang'ich ta'lim yo'nalishi talabalarni yosh o'quvchilar uchun samarali o'qituvchi bo'lishga tayyorlashga qaratilgan. Nazariy kurs ishlari va amaliy tajribalar kombinatsiyasi orqali talabalar qiziqarli va inklyuziv ta'lim muhitini yaratish uchun zarur bo'lgan bilim, ko'nikma va qobiliyatlarni rivojlantiradilar. Asosiy mavzular bolalar rivojlanishi, o'quv dasturlarini loyihalash, pedagogik yondashuvlar va boshlang'ich maktab yoshidagi bolalarning ehtiyojlariga moslashtirilgan sinfni boshqarish strategiyalarini o'z ichiga oladi.",
+      "Sinfda o'qitishdan tashqari, Boshlang'ich ta'lim yo'nalishlari ko'pincha amaliy mashg'ulotlar yoki talabalar o'qituvchilik amaliyoti orqali amaliy o'qitish tajribasi bilan shug'ullanadilar. Bu imkoniyatlar talabalarga nazariy tushunchalarni real sharoitlarda qo‘llash, o‘qitish usullarini mukammallashtirish va turli xil o‘quvchilarni samarali qo‘llab-quvvatlash qobiliyatini rivojlantirish imkonini beradi. Murabbiylik va mulohaza yuritish amaliyoti orqali o‘quvchilar o‘qitishning murakkab jihatlari haqida qimmatli tushunchalarga ega bo‘ladilar va o‘zlarining kelajakdagi boshlang‘ich maktab o‘qituvchisi sifatidagi faoliyati uchun mustahkam poydevor yaratadilar.",
+      "Bundan tashqari, boshlang'ich ta'lim yo'nalishi yosh bolalar o'rtasida har tomonlama rivojlanish va umrbod ta'limni rivojlantirish muhimligini ta'kidlaydi. Talabalar boshlang'ich sinf o'quvchilarining kognitiv, ijtimoiy, hissiy va jismoniy ehtiyojlarini qondiradigan rivojlanishga mos keladigan o'quv tajribalarini yaratishni o'rganadilar. Qo'llab-quvvatlovchi va tarbiyalovchi sinf muhitini yaratish orqali dastur bitiruvchilari o'rganishga bo'lgan muhabbatni uyg'otishga, akademik o'sishga yordam berishga va bolalarning shakllanish davrida to'liq potentsialini ro'yobga chiqarishga yordam berishga tayyor."
+    ],
+    "descrption_ru": [
+      "Направление начального образования на уровне университета направлено на подготовку студентов к успешному становлению в качестве эффективного учителя для молодых учеников. Комбинация теоретических занятий и практического опыта развивает у студентов необходимые знания, умения и навыки для создания интересной и инклюзивной образовательной среды. Основные темы включают в себя развитие детей, разработку учебных программ, педагогические методы и стратегии управления классом, соответствующие потребностям молодых учеников начальной школы.",
+      "Помимо учебы в классе, направления начального образования часто занимаются практическими упражнениями или опытом преподавания студентов. Эти возможности позволяют студентам применять теоретические концепции в реальных ситуациях, совершенствовать методики обучения и развивать способность успешно поддерживать разнообразных учеников. Практика наставничества и наблюдения дает студентам ценное представление о сложных аспектах преподавания и помогает им создать прочную основу для будущей деятельности учителя начальных классов.",
+      "Кроме того, направление начального образования подчеркивает важность всестороннего развития и обогащения образования молодых детей. Студенты изучают создание образовательного опыта, который удовлетворяет когнитивным, социальным, эмоциональным и физическим потребностям учащихся. Создание поддерживающей и воспитательной классной среды помогает вдохновить студентов на обучение, поддерживать их академический рост и раскрыть полный потенциал детей в период формирования личности."
+    ],
+    "descrption_en": [
+      "The field of primary education at the university level is geared towards preparing students to become effective teachers for young learners. A combination of theoretical coursework and practical experience develops students' necessary knowledge, skills, and abilities to create an engaging and inclusive learning environment. Key topics include child development, curriculum design, pedagogical methods, and classroom management strategies tailored to the needs of young elementary students.",
+      "In addition to classroom instruction, primary education programs often engage in hands-on activities or student teaching experiences. These opportunities allow students to apply theoretical concepts in real-world settings, refine teaching methodologies, and develop the ability to effectively support diverse learners. Practicum and observation experiences provide students with valuable insights into the complexities of teaching and help them build a solid foundation for their future roles as elementary school teachers.",
+      "Furthermore, the field of primary education emphasizes the importance of holistic development and enriching the education of young children. Students learn to create educational experiences that address the cognitive, social, emotional, and physical needs of students. Establishing a supportive and nurturing classroom environment helps foster students' love for learning, support their academic growth, and unlock the full potential of children during their formative years."
+    ]
+  },
+  {
+    "id": 5,
+    "image": "5.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и Заочное",
+    "formats_en": "Full-time and Part-time",
+    "duration_ru": "4 года и 5 лет соответственно",
+    "title_uz": "Maktabgacha ta'lim",
+    "title_ru": "Начальное образование",
+    "title_en": "Primary Education",
+    "items": [
+      {
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "12 000 000",
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full time",
+        "language_uz": "O'zbek tili",
+        "languages_ru": "Узбекский язык",
+        "languages_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "format_ru": "Заочное",
+        "format_en": "Part-time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 лет",
+        "duration_en": "5 years",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "languages_ru": "Узбекский язык",
+        "languages_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi maktabgacha ta'lim yo'nalishi talabalarni erta bolalik ta'lim muassasalarida yosh bolalar bilan ishlashga tayyorlashga qaratilgan. Nazariy kurs ishlari va amaliy tajribalar uyg‘unligi orqali talabalar bola rivojlanishi, erta ta’lim nazariyalari va yoshga mos o‘qitish metodologiyasi haqida tushunchaga ega bo‘ladilar. Asosiy mavzular o'yinga asoslangan ta'lim, favqulodda savodxonlik, ijtimoiy-emotsional rivojlanish va inklyuziv va madaniy jihatdan sezgir sinf muhitini yaratishni o'z ichiga oladi.",
+      "Sinfdagi ta'limdan tashqari, Maktabgacha ta'lim yo'nalishlari ko'pincha maktabgacha ta'lim muassasalarida dala tajribalarida yoki amaliyotlarda qatnashadilar. Bunday amaliy imkoniyatlar o‘quvchilarga yosh bolalarni kuzatish va ular bilan shug‘ullanish, nazariy bilimlarni amaliyotda qo‘llash hamda maktabgacha yoshdagi o‘quvchilarning o‘ziga xos ehtiyojlari va qiziqishlariga moslashtirilgan samarali o‘qitish strategiyalarini ishlab chiqish imkonini beradi. Tajribali o'qituvchilar rahbarligida talabalar qiziqarli mashg'ulotlarni loyihalash, sinf dinamikasini boshqarish va bolalarning har tomonlama rivojlanishini qo'llab-quvvatlashni o'rganadilar.",
+      "Bundan tashqari, maktabgacha ta'lim mutaxassisligi qiziquvchanlik, ijodkorlik va ijtimoiy o'zaro ta'sirga yordam beradigan tarbiyalovchi va rag'batlantiruvchi o'quv muhitini yaratish muhimligini ta'kidlaydi. Talabalar bolalar va oilalar bilan ijobiy munosabatlarni rivojlantirish usullarini, shuningdek, erta bolalik ta'limi sohasidagi boshqa mutaxassislar bilan hamkorlik qilish strategiyalarini o'rganadilar. Talabalarni yosh bolalarning muhim dastlabki yillarida o'sishi va rivojlanishini qo'llab-quvvatlash uchun zarur bo'lgan bilim, ko'nikma va qobiliyatlar bilan jihozlash orqali dastur bitiruvchilarni erta yoshdagi o'qituvchilar va himoyachilar sifatida mazmunli ta'sir ko'rsatishga tayyorlaydi."
+    ],
+    "descrption_ru": [
+      "Направление начального образования на уровне университета направлено на подготовку студентов к успешному становлению в качестве эффективного учителя для молодых учеников. Комбинация теоретических занятий и практического опыта развивает у студентов необходимые знания, умения и навыки для создания интересной и инклюзивной образовательной среды. Основные темы включают в себя развитие детей, разработку учебных программ, педагогические методы и стратегии управления классом, соответствующие потребностям молодых учеников начальной школы.",
+      "Помимо учебы в классе, направления начального образования часто занимаются практическими упражнениями или опытом преподавания студентов. Эти возможности позволяют студентам применять теоретические концепции в реальных ситуациях, совершенствовать методики обучения и развивать способность успешно поддерживать разнообразных учеников. Практика наставничества и наблюдения дает студентам ценное представление о сложных аспектах преподавания и помогает им создать прочную основу для будущей деятельности учителя начальных классов.",
+      "Кроме того, направление начального образования подчеркивает важность всестороннего развития и обогащения образования молодых детей. Студенты изучают создание образовательного опыта, взаимодействующего с любопытством, предпринимательством и социальным влиянием. Они изучают методы поощрения положительных отношений между детьми и семьями, а также стратегии сотрудничества с другими специалистами в области начального образования. Студенты готовятся обеспечить максимальное развитие и поддержку детей в важные начальные годы их жизни, оснащая себя знаниями, пониманием и навыками, необходимыми для влияния на молодых учеников в качестве значимых учителей и наставников."
+    ],
+    "descrption_en": [
+      "The university-level primary education program is designed to prepare students for effective teaching with young learners in early childhood educational settings. Through a combination of theoretical coursework and practical experiences, students develop the necessary knowledge, skills, and abilities to create engaging and inclusive learning environments. Key topics include child development, curriculum planning, pedagogical methods, and classroom management strategies tailored to the needs of young elementary school students.",
+      "In addition to classroom instruction, primary education programs often engage in practical exercises or student teaching experiences. These opportunities allow students to apply theoretical concepts in real-world situations, refine teaching methodologies, and develop the ability to effectively support diverse learners. Through mentoring and observation practices, students gain valuable insights into the complexities of teaching and build a solid foundation for their future roles as elementary school teachers.",
+      "Furthermore, the primary education specialization emphasizes the importance of holistic development and enriching the education of young children. Students explore creating an educational experience that engages curiosity, entrepreneurship, and social impact. They learn methods for fostering positive relationships between children and families, as well as strategies for collaborating with other professionals in the field of primary education. Students are prepared to ensure maximum growth and support for children in their crucial early years, equipping themselves with the knowledge, understanding, and skills needed to influence young learners as impactful teachers and mentors."
+    ]
+  },
+  {
+    "id": 6,
+    "image": "6.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и Заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Jismoniy madaniyat",
+    "title_ru": "Физическая культура",
+    "title_en": "Physical Culture",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full time",
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "format_ru": "Заочное",
+        "format_en": "Part time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 года",
+        "duration_en": "5 years",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi Jismoniy madaniyat mutaxassisligi inson harakatini, jismoniy mashqlar fanini va jismoniy faoliyatni targ'ib qilishni ko'p tarmoqli o'rganishni o'rganadi. Nazariy kurs ishlari va amaliy tajribalar aralashmasi orqali talabalar anatomiya, fiziologiya, biomexanika, motorni o'rganish va mashqlar retsepti kabi mavzularni o'rganadilar. O'quv dasturida salomatlik va salomatlik tamoyillari, jismoniy tayyorgarlikni baholash va jismoniy faoliyatning umumiy farovonlikni oshirishdagi roli ta'kidlangan.",
+      "Sinfda dars berishdan tashqari, Jismoniy madaniyat mutaxassisliklari ko'pincha laboratoriya mashg'ulotlari, fitnesni baholash va amaliy mashg'ulotlar kabi amaliy tajribalar bilan shug'ullanadilar. Bu imkoniyatlar talabalarga nazariy bilimlarni real sharoitlarda qo‘llash, mashqlarni dasturlash va o‘qitish bo‘yicha amaliy ko‘nikmalarni rivojlantirish hamda hayot davomida turli aholi vakillari bilan ishlash tajribasiga ega bo‘lish imkonini beradi. Tajribali professor-o'qituvchilar rahbarligida talabalar individual ehtiyojlar va maqsadlarga moslashtirilgan dalillarga asoslangan mashqlar aralashuvini loyihalash va amalga oshirishni o'rganadilar.",
+      "Bundan tashqari, Jismoniy madaniyat mutaxassisligi talabalarni sog'liq, fitnes va sport ko'rsatkichlari bilan bog'liq turli sohalarda martaba uchun tayyorlaydi. Bitiruvchilar jismoniy mashqlar bo'yicha fiziologlar, shaxsiy murabbiylar, kuch va konditsionerlar bo'yicha murabbiylar, sog'liqni saqlash bo'yicha o'qituvchilar yoki salomatlik koordinatorlari va boshqalar sifatida martaba olishlari mumkin. Ilmiy bilimlarni amaliy ko'nikmalar va tajribaviy o'rganish bilan birlashtirgan holda, dastur talabalarni jismoniy faoliyatni rivojlantirish, surunkali kasalliklarning oldini olish va turli sharoitlarda inson faoliyatini optimallashtirish uchun zarur bo'lgan tajriba va professionallik bilan jihozlaydi."
+    ],
+    "descrption_ru": [
+      "Специальность 'Физическая культура' на уровне университета изучает движение человека, науку о физических упражнениях и пропаганду физической активности с междисциплинарным подходом. Сочетая теоретические курсы и практические занятия, студенты изучают такие темы, как анатомия, физиология, биомеханика, изучение моторики и предписание упражнений. Учебная программа подчеркивает принципы здоровья и благополучия, оценку физической подготовки и роль физической активности в улучшении общего благополучия.",
+      "Кроме преподавания в классе, специалисты по физической культуре часто занимаются практическими занятиями, такими как лабораторные работы, оценка физической формы и практические занятия. Эти возможности позволяют студентам применять теоретические знания в реальных условиях, развивать практические навыки в программировании и обучении упражнениям, а также приобретать опыт работы с различными населениями на протяжении всей жизни. Под руководством опытных преподавателей студенты учатся разрабатывать и внедрять основанные на доказательствах упражнения, адаптированные к индивидуальным потребностям и целям.",
+      "Кроме того, специальность 'Физическая культура' готовит студентов к карьере в различных областях, связанных со здоровьем, фитнесом и спортивными показателями. Выпускники могут работать физиологами по упражнениям, личными тренерами, тренерами по силовой и кондиционной подготовке, преподавателями здоровья или координаторами здоровья и т.д. Сочетая научные знания с практическими навыками и опытным обучением, программа оснащает студентов опытом и профессионализмом, необходимыми для продвижения физической активности, предотвращения хронических заболеваний и оптимизации человеческой деятельности в различных условиях."
+    ],
+    "descrption_en": [
+      "The university-level specialty in Physical Culture involves the multidisciplinary study of human movement, exercise science, and the promotion of physical activity. Through a mix of theoretical coursework and practical experiences, students learn topics such as anatomy, physiology, biomechanics, motor learning, and exercise prescription. The curriculum emphasizes principles of health and wellness, assessment of physical fitness, and the role of physical activity in enhancing overall well-being.",
+      "In addition to classroom teaching, Physical Culture specialists often engage in practical experiences such as laboratory work, fitness assessments, and practical training sessions. These opportunities allow students to apply theoretical knowledge in real-world settings, develop practical skills in exercise programming and teaching, and gain experience working with diverse populations throughout their lives. Under the guidance of experienced faculty, students learn to design and implement evidence-based exercise interventions tailored to individual needs and goals.",
+      "Moreover, the Physical Culture specialty prepares students for careers in various fields related to health, fitness, and athletic performance. Graduates may pursue careers as exercise physiologists, personal trainers, strength and conditioning coaches, health educators, or wellness coordinators, among others. By combining scientific knowledge with practical skills and experiential learning, the program equips students with the expertise and professionalism needed to promote physical activity, prevent chronic diseases, and optimize human performance in diverse settings."
+    ]
+  },
+  {
+    "id": 7,
+    "image": "7.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и Заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Texnologik ta'lim",
+    "title_ru": "Технологическое образование",
+    "title_en": "Technological Education",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очное",
+        "duration_ru": "4 года",
+        "language_ru": "Узбекский язык",
+        "format_en": "Full-time",
+        "duration_en": "4 years",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "duration_uz": "5 yil",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Заочное",
+        "duration_ru": "5 лет",
+        "language_ru": "Узбекский язык",
+        "format_en": "Part-time",
+        "duration_en": "5 years",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi texnologik ta'lim yo'nalishi talabalarni boshlang'ich, o'rta va kasb-hunar ta'limi muassasalarida texnologiya bilan bog'liq fanlarni o'qitishga tayyorlashga qaratilgan. Nazariy kurs ishlari va amaliy tajribalar kombinatsiyasi orqali talabalar kompyuter fanlari, muhandislik tamoyillari, raqamli savodxonlik va ta'lim texnologiyalari integratsiyasi kabi mavzularni o'rganadilar. O'quv dasturida o'quvchilarni tez rivojlanayotgan texnologiya sohasiga jalb qilish uchun moslashtirilgan texnik mahorat va pedagogik strategiyalarga urg'u beriladi.",
+      "Sinfdagi darslardan tashqari, Texnologik ta'lim yo'nalishlari ko'pincha o'quv dizayn loyihalari, texnologiya seminarlari va o'qitish amaliyoti kabi amaliy tajribalar bilan shug'ullanadi. Bu imkoniyatlar talabalarga texnologiya ta'limiga xos bo'lgan o'quv dasturlarini ishlab chiqish, o'qitish usullari va baholash usullari bo'yicha tajribani rivojlantirish imkonini beradi. O'qituvchilar, sanoat mutaxassislari va talabalar bilan hamkorlik qilish orqali talabalar samarali o'qitish amaliyoti va texnologiya integratsiyasining yangi tendentsiyalari haqida qimmatli tushunchalarga ega bo'ladilar.",
+      "Bundan tashqari, texnologik ta'lim yo'nalishi bitiruvchilarni texnologiyaga asoslangan dunyoda talabalarni muvaffaqiyatga tayyorlash uchun zarur bo'lgan bilim, ko'nikma va qobiliyatlar bilan ta'minlaydi. Bitiruvchilar texnologiya bo'yicha o'qituvchilar, o'qitish texnologiyalari bo'yicha mutaxassislar, o'quv dasturlarini ishlab chiquvchilar yoki ta'lim bo'yicha maslahatchilar sifatida martaba olishlari mumkin. Innovatsiyalar, tanqidiy fikrlash va muammolarni hal qilish ko'nikmalarini rivojlantirish orqali dastur o'qituvchilarga raqamli fuqarolarning keyingi avlodini ilhomlantirish va ularni 21-asrda turli xil ta'lim va martaba yo'llariga tayyorlash imkonini beradi."
+    ],
+    "descrption_ru": [
+      "Специальность 'Технологическое образование' на уровне университета готовит студентов к преподаванию предметов, связанных с технологией, в начальных, средних и профессионально-технических учебных заведениях. Сочетая теоретические курсы и практические занятия, студенты изучают такие темы, как компьютерные науки, принципы инженерии, цифровая грамотность и интеграция образовательных технологий. Учебная программа подчеркивает технические навыки и педагогические стратегии, адаптированные для вовлечения учащихся в быстро развивающуюся технологическую сферу.",
+      "Кроме преподавания в классе, направления 'Технологическое образование' часто включают практические занятия, такие как проекты по учебному дизайну, технологические семинары и педагогическая практика. Эти возможности позволяют студентам разрабатывать учебные программы, методы преподавания и оценки, характерные для технологического образования. Сотрудничая с преподавателями, отраслевыми специалистами и студентами, студенты получают ценные знания о современных тенденциях в области эффективной преподавательской практики и интеграции технологий.",
+      "Кроме того, специальность 'Технологическое образование' обеспечивает выпускников знаниями, навыками и способностями, необходимыми для подготовки студентов к успеху в мире, основанном на технологиях. Выпускники могут строить карьеру в качестве учителей технологий, специалистов по образовательным технологиям, разработчиков учебных программ или консультантов по образованию. Развивая навыки инноваций, критического мышления и решения проблем, программа позволяет педагогам вдохновлять новое поколение цифровых граждан и готовить их к различным образовательным и карьерным путям в 21 веке."
+    ],
+    "descrption_en": [
+      "The university-level specialty in Technological Education prepares students to teach technology-related subjects in primary, secondary, and vocational education institutions. Combining theoretical coursework and practical experiences, students learn topics such as computer science, engineering principles, digital literacy, and the integration of educational technologies. The curriculum emphasizes technical skills and pedagogical strategies tailored to engage students in the rapidly evolving field of technology.",
+      "In addition to classroom teaching, Technological Education programs often involve practical experiences such as instructional design projects, technology workshops, and teaching practicums. These opportunities enable students to develop expertise in designing curricula, teaching methods, and assessment techniques specific to technology education. Collaborating with educators, industry professionals, and peers, students gain valuable insights into effective teaching practices and the latest trends in technology integration.",
+      "Furthermore, the Technological Education specialty equips graduates with the knowledge, skills, and abilities necessary to prepare students for success in a technology-based world. Graduates may pursue careers as technology teachers, educational technology specialists, curriculum developers, or education consultants. By fostering skills in innovation, critical thinking, and problem-solving, the program empowers educators to inspire the next generation of digital citizens and prepare them for diverse educational and career paths in the 21st century."
+    ]
+  },
+  {
+    "id": 8,
+    "image": "8.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и Заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Tarix",
+    "title_ru": "История",
+    "title_en": "History",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очное",
+        "duration_ru": "4 года",
+        "language_ru": "Узбекский язык",
+        "format_en": "Full-time",
+        "duration_en": "4 years",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "duration_uz": "5 yil",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Заочное",
+        "duration_ru": "5 лет",
+        "language_ru": "Узбекский язык",
+        "format_en": "Part-time",
+        "duration_en": "5 years",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi tarix mutaxassisligi insoniyat tsivilizatsiyasining rivojlanishini tushunish uchun o'tmishdagi voqealar, madaniyatlar va jamiyatlarni o'rganishga kirishadi. Tadqiqot, tahlil qilish va talqin qilish kombinatsiyasi orqali talabalar tarixiy davrlar, mavzular va geografik mintaqalarning keng doirasini o'rganadilar. Asosiy mavzular siyosiy tarix, ijtimoiy tarix, madaniyat tarixi va iqtisod tarixini o‘z ichiga oladi, talabalarga o‘tmish murakkabliklari haqida har tomonlama tushuncha beradi.",
+      "Birlamchi va ikkinchi darajali manbalarni o'rganishdan tashqari, tarix fanlari ko'pincha o'zlarining tahliliy va muloqot qobiliyatlarini rivojlantirish uchun tanqidiy munozaralar, bahslar va yozma topshiriqlar bilan shug'ullanadilar. Tarixiy rivoyatlarni so'roq qilish, taxminlarni so'roq qilish va dalillarni baholash orqali talabalar o'tmish va uning zamonaviy muammolarga aloqadorligi haqida tanqidiy fikrlashni o'rganadilar. Tarixni o'rganish nafaqat turli istiqbollar va tajribalarni qadrlashni rivojlantiradi, balki talabalarni murakkab ijtimoiy muammolarni hal qilish uchun vositalar bilan jihozlaydi.",
+      "Bundan tashqari, tarix mutaxassisligi talabalarni ta'lim, huquq, jurnalistika, davlat siyosati va muzey kuratorligi kabi sohalarda turli martaba yo'nalishlariga tayyorlaydi. Bitiruvchilar tarixiy kontekstni chuqur tushunish va murakkab ma'lumotlarni sintez qilish qobiliyatidan foydalangan holda tarixchi, o'qituvchi, tadqiqotchi, arxivchi yoki tahlilchi sifatida imkoniyatlarga ega bo'lishlari mumkin. O'tmishni o'rganish orqali tarix fanlari insoniyat jamiyatlarini shakllantirgan kuchlar haqida tushunchaga ega bo'ladilar va ongli qarorlar qabul qilish va mazmunli ijtimoiy o'zgarishlarga hissa qo'shish uchun zarur bo'lgan ko'nikmalarni rivojlantiradilar."
+    ],
+    "descrption_ru": [
+      "Специальность 'История' на уровне университета изучает события, культуры и общества прошлого, чтобы понять развитие человеческой цивилизации. Сочетая исследования, анализ и интерпретацию, студенты изучают широкий спектр исторических периодов, тем и географических регионов. Основные темы включают политическую историю, социальную историю, историю культуры и экономическую историю, что дает студентам всестороннее понимание сложностей прошлого.",
+      "Помимо изучения первичных и вторичных источников, историки часто участвуют в критических дискуссиях, дебатах и письменных заданиях для развития своих аналитических и коммуникативных навыков. Путем критического осмысления исторических повествований, проверки предположений и оценки доказательств студенты учатся критически мыслить о прошлом и его связи с современными проблемами. Изучение истории не только развивает ценность различных перспектив и опыта, но и оснащает студентов инструментами для решения сложных социальных проблем.",
+      "Кроме того, специальность 'История' готовит студентов к различным карьерным путям в таких областях, как образование, право, журналистика, государственная политика и музейное кураторство. Выпускники могут работать историками, преподавателями, исследователями, архивистами или аналитиками, используя глубокое понимание исторического контекста и способность синтезировать сложную информацию. Изучая прошлое, историки получают представление о силах, формировавших человеческие общества, и развивают навыки, необходимые для принятия осознанных решений и внесения значимых социальных изменений."
+    ],
+    "descrption_en": [
+      "The university-level history major delves into studying events, cultures, and societies of the past to understand the development of human civilization. Through a combination of research, analysis, and interpretation, students explore a wide range of historical periods, topics, and geographic regions. Core subjects include political history, social history, cultural history, and economic history, providing students with a comprehensive understanding of the complexities of the past.",
+      "In addition to studying primary and secondary sources, history majors often engage in critical discussions, debates, and written assignments to develop their analytical and communication skills. By critically questioning historical narratives, examining assumptions, and evaluating evidence, students learn to think critically about the past and its relevance to contemporary issues. Studying history not only fosters an appreciation for diverse perspectives and experiences but also equips students with the tools to address complex social problems.",
+      "Furthermore, the history major prepares students for various career paths in fields such as education, law, journalism, public policy, and museum curation. Graduates can pursue careers as historians, teachers, researchers, archivists, or analysts, utilizing their deep understanding of historical context and ability to synthesize complex information. By studying the past, history majors gain insight into the forces that have shaped human societies and develop the skills necessary to make informed decisions and contribute to meaningful social change."
+    ]
+  },
+  {
+    "id": 9,
+    "image": "9.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и Заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Psixologiya (faoliyat turlari bo'yicha)",
+    "title_ru": "Психология (по видам деятельности)",
+    "title_en": "Psychology (by types of activity)",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очное",
+        "duration_ru": "4 года",
+        "language_ru": "Узбекский язык",
+        "format_en": "Full-time",
+        "duration_en": "4 years",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "duration_uz": "5 yil",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Заочное",
+        "duration_ru": "5 лет",
+        "language_ru": "Узбекский язык",
+        "format_en": "Part-time",
+        "duration_en": "5 years",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi psixologiya mutaxassisligi xulq-atvor va aqliy jarayonlarni ilmiy o'rganish bilan shug'ullanadi. Qattiq kurs ishlari va amaliy tajribalar orqali talabalar kognitiv psixologiya, ijtimoiy psixologiya, rivojlanish psixologiyasi va klinik psixologiya kabi turli kichik sohalarni o'rganadilar. Asosiy mavzular tadqiqot usullari, miya faoliyati, inson rivojlanishi va shaxsiyat nazariyalarini o'z ichiga oladi, bu talabalarga inson xatti-harakatlarining murakkabliklari haqida keng tushuncha beradi.",
+      "Psixologiya mutaxassisliklari nazariy bilimlardan tashqari, ko'pincha amaliyot, tadqiqot loyihalari va laboratoriya ishlari kabi amaliy tajribalar bilan shug'ullanadilar. Bu imkoniyatlar o‘quvchilarga psixologik tamoyillarni real sharoitlarda qo‘llash, tanqidiy fikrlash qobiliyatlarini rivojlantirish va empirik so‘rovlar orqali inson xatti-harakatlari haqida tushunchaga ega bo‘lish imkonini beradi. Tajribalar o'tkazish, ma'lumotlarni tahlil qilish va psixologik nazariyalarni baholash orqali talabalar muammolarga ilmiy tafakkur bilan yondashishni o'rganadilar va psixologik bilimlarning rivojlanishiga hissa qo'shadilar.",
+      "Bundan tashqari, Psixologiya mutaxassisligi talabalarni maslahat, terapiya, tadqiqot, inson resurslari va ta'lim kabi sohalarda turli martaba yo'nalishlariga tayyorlaydi. Bitiruvchilar psixolog, maslahatchi, xulq-atvor tahlilchisi yoki tadqiqotchi yordamchisi sifatida turli xil individual va ijtimoiy muammolarni hal qilish uchun inson xatti-harakati haqidagi tushunchalaridan foydalanishlari mumkin. Psixologiya mutaxassisliklari ong va xulq-atvorni o'rganish orqali inson tabiati haqida tushunchaga ega bo'ladilar va shaxslar va jamoalarga ijobiy ta'sir ko'rsatish uchun zarur bo'lgan ko'nikmalarni rivojlantiradilar."
+    ],
+    "descrption_ru": [
+      "Специальность 'Психология' на уровне университета занимается научным изучением поведения и психических процессов. Через серьезные курсовые работы и практический опыт студенты изучают различные поддисциплины, такие как когнитивная психология, социальная психология, психология развития и клиническая психология. Основные темы включают методы исследования, работу мозга, человеческое развитие и теории личности, что дает студентам широкое понимание сложности человеческого поведения.",
+      "Кроме теоретических знаний, психологи часто занимаются практикой, исследовательскими проектами и лабораторными работами. Эти возможности позволяют учащимся применять психологические принципы в реальных условиях, развивать критическое мышление и получать представление о человеческом поведении через эмпирические исследования. Проводя эксперименты, анализируя данные и оценивая психологические теории, студенты учатся подходить к проблемам с научным мышлением и вносить свой вклад в развитие психологических знаний.",
+      "Кроме того, специальность 'Психология' готовит студентов к различным карьерным направлениям, таким как консультирование, терапия, исследования, управление человеческими ресурсами и образование. Выпускники могут работать психологами, консультантами, поведенческими аналитиками или помощниками исследователей, используя свои знания о человеческом поведении для решения различных индивидуальных и социальных проблем. Изучая ум и поведение, психологи получают представление о человеческой природе и развивают навыки, необходимые для позитивного воздействия на личности и сообщества."
+    ],
+    "descrption_en": [
+      "The university-level psychology major engages in the scientific study of behavior and mental processes. Through rigorous coursework and practical experiences, students explore various subfields such as cognitive psychology, social psychology, developmental psychology, and clinical psychology. Core topics include research methods, brain function, human development, and personality theories, providing students with a broad understanding of the complexities of human behavior.",
+      "Beyond theoretical knowledge, psychology majors often engage in practical experiences such as internships, research projects, and laboratory work. These opportunities allow students to apply psychological principles in real-world settings, develop critical thinking skills, and gain insights into human behavior through empirical inquiries. By conducting experiments, analyzing data, and evaluating psychological theories, students learn to approach problems with scientific reasoning and contribute to the advancement of psychological knowledge.",
+      "Additionally, the psychology major prepares students for various career paths in fields such as counseling, therapy, research, human resources, and education. Graduates can pursue careers as psychologists, counselors, behavior analysts, or research assistants, using their understanding of human behavior to address a wide range of individual and social issues. By studying the mind and behavior, psychology majors gain insights into human nature and develop the skills necessary to make positive impacts on individuals and communities."
+    ]
+  },
+  {
+    "id": 10,
+    "image": "10.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и Заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Biologiya (turlari bo'yicha)",
+    "title_ru": "Биология (по видам)",
+    "title_en": "Biology (by types)",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очное",
+        "duration_ru": "4 года",
+        "language_ru": "Узбекский язык",
+        "format_en": "Full-time",
+        "duration_en": "4 years",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "duration_uz": "5 yil",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Заочное",
+        "duration_ru": "5 лет",
+        "language_ru": "Узбекский язык",
+        "format_en": "Part-time",
+        "duration_en": "5 years",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi biologiya mutaxassisligi tirik organizmlar va ularning atrof-muhit bilan o'zaro ta'sirini o'rganadi. Nazariy kurs ishlari va amaliy laboratoriya tajribalari kombinatsiyasi orqali talabalar hujayra biologiyasi, genetika, ekologiya, fiziologiya va evolyutsiya kabi asosiy sohalarni o'rganadilar. O'quv dasturi molekulyar va hujayrali jarayonlardan ekotizimlar va bioxilma-xillikgacha bo'lgan tashkilotning turli darajalarida hayotni boshqaradigan tamoyillarni har tomonlama tushunishni ta'minlaydi.",
+      "Sinfdagi darslardan tashqari, biologiya mutaxassisliklari ko'pincha nazariy bilimlarni amaliy sharoitlarda qo'llash uchun tadqiqot loyihalari, dala ishlari va amaliyotlar bilan shug'ullanadilar. Bu imkoniyatlar talabalarga biologiyaning ixtisoslashgan yo‘nalishlarini o‘rganish, tanqidiy fikrlash ko‘nikmalarini rivojlantirish hamda ilmiy izlanish va eksperimentlarda malaka oshirish imkonini beradi. Biologik hodisalarni o'rganish, ma'lumotlarni tahlil qilish va topilmalarni etkazish orqali talabalar murakkab ilmiy savollarga qiziquvchanlik va qat'iylik bilan yondashishni o'rganadilar.",
+      "Bundan tashqari, biologiya mutaxassisligi talabalarni sog'liqni saqlash, tadqiqot, tabiatni muhofaza qilish, biotexnologiya va ta'lim kabi sohalarda keng ko'lamli martaba yo'nalishlariga tayyorlaydi. Bitiruvchilar biologlar, sog'liqni saqlash mutaxassislari, atrof-muhit bo'yicha olimlar, laboratoriya texniklari yoki fan o'qituvchilari va boshqalar kabi imkoniyatlarga ega bo'lishlari mumkin. Hayot shakllarining xilma-xilligini va ularning o'zaro bog'liqligini o'rganish orqali biologiya mutaxassisliklari fundamental biologik jarayonlar haqida tushunchaga ega bo'ladilar va jamiyat uchun foydali bo'lgan fan va tibbiyot yutuqlariga hissa qo'shadilar."
+    ],
+    "descrption_ru": [
+      "Специальность 'Биология' на уровне университета изучает живые организмы и их взаимодействие с окружающей средой. Через сочетание теоретических курсов и практических лабораторных занятий студенты изучают основные области, такие как клеточная биология, генетика, экология, физиология и эволюция. Учебная программа обеспечивает всестороннее понимание принципов, управляющих жизнью на различных уровнях организации, от молекулярных и клеточных процессов до экосистем и биоразнообразия.",
+      "Помимо занятий в классе, биологические специальности часто занимаются исследовательскими проектами, полевыми работами и стажировками, чтобы применять теоретические знания на практике. Эти возможности позволяют студентам исследовать специализированные направления биологии, развивать навыки критического мышления и совершенствоваться в научных исследованиях и экспериментах. Изучая биологические явления, анализируя данные и сообщая о находках, студенты учатся подходить к сложным научным вопросам с любопытством и настойчивостью.",
+      "Кроме того, специальность 'Биология' готовит студентов к широкому спектру карьерных направлений в таких областях, как здравоохранение, исследования, охрана природы, биотехнологии и образование. Выпускники могут работать биологами, специалистами здравоохранения, экологами, лабораторными техниками или преподавателями естественных наук и другими. Изучая разнообразие и взаимосвязь форм жизни, биологи получают представление о фундаментальных биологических процессах и вносят вклад в достижения науки и медицины, полезные для общества."
+    ],
+    "descrption_en": [
+      "The university-level biology major studies living organisms and their interactions with the environment. Through a combination of theoretical coursework and practical laboratory experiences, students explore key areas such as cellular biology, genetics, ecology, physiology, and evolution. The curriculum provides a comprehensive understanding of the principles governing life at various levels of organization, from molecular and cellular processes to ecosystems and biodiversity.",
+      "Beyond classroom lectures, biology majors often engage in research projects, fieldwork, and internships to apply theoretical knowledge in practical settings. These opportunities allow students to explore specialized areas of biology, develop critical thinking skills, and gain proficiency in scientific research and experimentation. By studying biological phenomena, analyzing data, and communicating findings, students learn to approach complex scientific questions with curiosity and rigor.",
+      "Additionally, the biology major prepares students for a wide range of career paths in fields such as healthcare, research, conservation, biotechnology, and education. Graduates can pursue careers as biologists, healthcare professionals, environmental scientists, laboratory technicians, or science teachers, among others. By studying the diversity and interconnectedness of life forms, biology majors gain insights into fundamental biological processes and contribute to scientific and medical advancements beneficial to society."
+    ]
+  },
+  {
+    "id": 11,
+    "image": "11.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi",
+    "formats_ru": "Очное",
+    "formats_en": "Full-time",
+    "title_uz": "Matematika va informatika",
+    "title_ru": "Математика и информатика",
+    "title_en": "Mathematics and Computer Science",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очное",
+        "duration_ru": "4 года",
+        "language_ru": "Узбекский язык",
+        "format_en": "Full-time",
+        "duration_en": "4 years",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi matematika va informatika mutaxassisligi matematika tamoyillarini o'rganishni informatika nazariyasi va amaliyoti bilan birlashtiradi. Qattiq o'quv dasturi orqali talabalar hisob, algebra, diskret matematika va matematik mantiq kabi asosiy matematik tushunchalarni, shuningdek, dasturlash tillari, algoritmlar, ma'lumotlar tuzilmalari va dasturiy ta'minot muhandisligi tamoyillarini o'rganadilar. Dasturning fanlararo tabiati talabalarni ikkala sohada ham kuchli nazariy asos bilan ta'minlaydi, ularni matematika va hisoblash chorrahasida turli martaba imkoniyatlariga tayyorlaydi.",
+      "Nazariy kurs ishlaridan tashqari, matematika va kompyuter fanlari mutaxassisliklari ko'pincha loyihalarni kodlash, dasturiy ta'minotni ishlab chiqish va matematik modellashtirish kabi amaliy tajribalar bilan shug'ullanadilar. Ushbu amaliy imkoniyatlar talabalarga haqiqiy muammolarni hal qilish uchun matematik tushunchalarni qo'llash, hisoblash ko'nikmalarini rivojlantirish va dasturlash tillari va dasturiy vositalarda malaka oshirish imkonini beradi. Algoritmik fikrlash va matematik fikrlash orqali murakkab muammolarni hal qilish orqali talabalar innovatsion echimlarni ishlab chiqishni va hisoblash algoritmlarining samaradorligi va samaradorligini tahlil qilishni o'rganadilar.",
+      "Bundan tashqari, matematika va kompyuter fanlari mutaxassisligi talabalarni texnologiya, moliya, sog'liqni saqlash va tadqiqot kabi turli sohalarda martaba uchun tayyorlaydi. Bitiruvchilar murakkab muammolarni hal qilish va innovatsiyalarni rivojlantirish uchun matematika va hisoblash sohasidagi tajribalaridan foydalangan holda dasturiy ta'minot muhandislari, ma'lumotlar bo'yicha olimlar, tizim tahlilchilari, miqdoriy tahlilchilar yoki tadqiqotchi olimlar sifatida imkoniyatlarga ega bo'lishlari mumkin. Ikkala fanga xos bo'lgan analitik va muammolarni hal qilish ko'nikmalarini o'zlashtirgan holda, matematika va informatika yo'nalishlari ma'lumotlarga asoslangan qarorlar qabul qilish va hisoblash texnikasiga tayanadigan dinamik va tez rivojlanayotgan sohalarda muvaffaqiyat qozonish uchun jihozlangan."
+    ],
+    "descrption_ru": [
+      "Специальность 'Математика и информатика' на уровне университета объединяет изучение математических принципов с теорией и практикой информатики. Благодаря строгой учебной программе студенты изучают основные математические концепции, такие как исчисление, алгебра, дискретная математика и математическая логика, а также принципы языков программирования, алгоритмов, структур данных и программной инженерии. Междисциплинарный характер программы обеспечивает студентам прочную теоретическую базу в обеих областях, подготавливая их к разнообразным карьерным возможностям на пересечении математики и вычислительной техники.",
+      "Помимо теоретических курсов, специальности по математике и компьютерным наукам часто занимаются практическими занятиями, такими как кодирование проектов, разработка программного обеспечения и математическое моделирование. Эти практические возможности позволяют студентам применять математические концепции для решения реальных проблем, развивать вычислительные навыки и повышать квалификацию в языках программирования и программных инструментах. Решая сложные задачи с помощью алгоритмического и математического мышления, студенты учатся разрабатывать инновационные решения и анализировать эффективность и результативность вычислительных алгоритмов.",
+      "Кроме того, специальность 'Математика и информатика' готовит студентов к карьере в различных областях, таких как технологии, финансы, здравоохранение и исследования. Выпускники могут работать инженерами-программистами, учеными по данным, системными аналитиками, количественными аналитиками или научными сотрудниками, используя свои знания в области математики и вычислительной техники для решения сложных задач и развития инноваций. Обладая аналитическими навыками и навыками решения проблем, характерными для обеих дисциплин, выпускники математики и информатики готовы добиваться успеха в динамичных и быстро развивающихся областях, опирающихся на вычислительные методы и основанные на данных решения."
+    ],
+    "descrption_en": [
+      "The university-level Mathematics and Computer Science major combines the study of mathematical principles with the theory and practice of computer science. Through a rigorous curriculum, students learn fundamental mathematical concepts such as calculus, algebra, discrete mathematics, and mathematical logic, as well as principles of programming languages, algorithms, data structures, and software engineering. The interdisciplinary nature of the program provides students with a strong theoretical foundation in both fields, preparing them for various career opportunities at the intersection of mathematics and computing.",
+      "In addition to theoretical coursework, Mathematics and Computer Science majors often engage in practical experiences such as coding projects, software development, and mathematical modeling. These practical opportunities allow students to apply mathematical concepts to solve real-world problems, develop computational skills, and gain proficiency in programming languages and software tools. By solving complex problems through algorithmic and mathematical thinking, students learn to develop innovative solutions and analyze the efficiency and effectiveness of computational algorithms.",
+      "Furthermore, the Mathematics and Computer Science major prepares students for careers in various fields such as technology, finance, healthcare, and research. Graduates can pursue opportunities as software engineers, data scientists, systems analysts, quantitative analysts, or research scientists, utilizing their expertise in mathematics and computing to solve complex problems and drive innovation. With analytical and problem-solving skills inherent to both disciplines, Mathematics and Computer Science majors are equipped to succeed in dynamic and rapidly evolving fields that rely on computational techniques and data-driven decision-making."
+    ]
+  },
+  {
+    "id": 12,
+    "image": "12.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi",
+    "formats_ru": "Очное",
+    "formats_en": "Full-time",
+    "title_uz": "O'zbek tili va adabiyoti",
+    "title_ru": "Узбекский язык и литература",
+    "title_en": "Uzbek Language and Literature",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очное",
+        "duration_ru": "4 года",
+        "language_ru": "Узбекский язык",
+        "format_en": "Full-time",
+        "duration_en": "4 years",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi “O‘zbek tili va adabiyoti” mutaxassisligi O‘zbekistonning boy til va adabiy an’analariga e’tibor qaratadi. Kurs ishlari va immersion tajribalar orqali talabalar o‘zbek tilining tuzilishi, grammatikasi va semantikasini, shuningdek, uning tarixiy va madaniy ahamiyatini o‘rganadilar. Asosiy mavzular fonetika, morfologiya, sintaksis va stilistikani o‘z ichiga olgan bo‘lib, o‘quvchilarga tilning nozik jihatlari va nozik jihatlarini chuqur anglash imkonini beradi.",
+      "O‘zbek tili va adabiyoti yo‘nalishlari tilshunoslikdan tashqari, qadimiy dostonlar, mumtoz she’riyat, zamonaviy nasr va zamonaviy asarlarni o‘z ichiga olgan O‘zbekiston adabiy merosini chuqur o‘rganadi. Talabalar adabiy matnlarni o'zlarining madaniy va tarixiy kontekstlari doirasida tahlil qiladilar, mavzular, motivlar va adabiy vositalarni o'rganadilar. Taniqli o‘zbek yozuvchi va shoirlari ijodini o‘rganish orqali talabalar mamlakatning madaniy o‘ziga xosligi va badiiy ifodasi haqida tushunchaga ega bo‘ladilar.",
+      "Qolaversa, “O‘zbek tili va adabiyoti” yo‘nalishi talabalarni ta’lim, tarjima, jurnalistika, madaniy merosni asrab-avaylash, xalqaro aloqalar kabi sohalarda kasbga tayyorlaydi. Bitiruvchilar til o‘qituvchisi, tarjimon, muharrir yoki madaniyat elchisi sifatida o‘zbek tili va adabiyoti bo‘yicha o‘z tajribalaridan foydalanib, madaniy tafovutlarni bartaraf etish va madaniyatlararo o‘zaro tushunishni targ‘ib qilish imkoniyatlaridan foydalanishlari mumkin. Dastur oʻzbek tilini bilish va uning adabiy anʼanalarini qadrlashni rivojlantirish orqali talabalarni Oʻzbekistonning boy madaniy merosini asrab-avaylash va jahon miqyosida targʻib qilish uchun tayyorlaydi."
+    ],
+    "descrption_ru": [
+      "Специальность 'Узбекский язык и литература' на уровне университета сосредоточена на богатых языковых и литературных традициях Узбекистана. Через учебные курсы и погружения студенты изучают структуру, грамматику и семантику узбекского языка, а также его историческое и культурное значение. Основные темы включают фонетику, морфологию, синтаксис и стилистику, что позволяет учащимся глубоко понять тонкости языка.",
+      "Специальность 'Узбекский язык и литература' также включает глубокое изучение литературного наследия Узбекистана, охватывающее древние эпосы, классическую поэзию, современную прозу и современные произведения. Студенты анализируют литературные тексты в их культурных и исторических контекстах, изучая темы, мотивы и литературные средства. Изучая творчество выдающихся узбекских писателей и поэтов, студенты получают представление о культурной самобытности и художественном выражении страны.",
+      "Кроме того, специальность 'Узбекский язык и литература' готовит студентов к карьере в таких областях, как образование, перевод, журналистика, охрана культурного наследия и международные отношения. Выпускники могут работать учителями языка, переводчиками, редакторами или культурными послами, используя свои знания узбекского языка и литературы для преодоления культурных различий и содействия межкультурному пониманию. Программа готовит студентов к сохранению и популяризации богатого культурного наследия Узбекистана на мировой арене, развивая навыки владения узбекским языком и ценности его литературных традиций."
+    ],
+    "descrption_en": [
+      "The university-level 'Uzbek Language and Literature' major focuses on the rich linguistic and literary traditions of Uzbekistan. Through coursework and immersive experiences, students study the structure, grammar, and semantics of the Uzbek language, as well as its historical and cultural significance. Core topics include phonetics, morphology, syntax, and stylistics, providing students with a deep understanding of the nuances and subtleties of the language.",
+      "In addition to linguistics, the 'Uzbek Language and Literature' major delves into Uzbekistan's literary heritage, encompassing ancient epics, classical poetry, modern prose, and contemporary works. Students analyze literary texts within their cultural and historical contexts, examining themes, motifs, and literary devices. By studying the works of prominent Uzbek writers and poets, students gain insights into the country's cultural identity and artistic expression.",
+      "Furthermore, the 'Uzbek Language and Literature' major prepares students for careers in fields such as education, translation, journalism, cultural heritage preservation, and international relations. Graduates can pursue opportunities as language teachers, translators, editors, or cultural ambassadors, using their expertise in Uzbek language and literature to bridge cultural gaps and promote intercultural understanding. The program equips students to preserve and promote Uzbekistan's rich cultural heritage globally, fostering a deep appreciation of the Uzbek language and its literary traditions."
+    ]
+  },
+  {
+    "id": 13,
+    "image": "13.1.png",
+    "languages_uz": "Ingliz tili",
+    "languages_ru": "Английский язык",
+    "languages_en": "English language",
+    "formats_uz": "Kunduzgi",
+    "formats_ru": "Очное",
+    "formats_en": "Full-time",
+    "title_uz": "Xorijiy til va adabiyoti: ingliz tili",
+    "title_ru": "Иностранный язык и литература: английский язык",
+    "title_en": "Foreign Language and Literature: English",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очное",
+        "duration_ru": "4 года",
+        "language_ru": "Узбекский язык",
+        "format_en": "Full-time",
+        "duration_en": "4 years",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Chet tili va adabiyoti: Universitet darajasidagi ingliz tili mutaxassisligi talabalarni ingliz tili, adabiyoti va madaniyatini o'rganishga jalb qiladi. Keng qamrovli o‘quv dasturi orqali o‘quvchilar ingliz tili grammatikasi, lug‘at, fonetika va sintaksisning nuanslarini o‘rganadilar, o‘qish, yozish, gapirish va tinglash malakalarini rivojlantiradilar. Asosiy kurslar bir qator adabiy janr va davrlarni qamrab oladi, Shekspir dramasidan tortib zamonaviy fantastikagacha, talabalarga ingliz adabiy an'anasini chuqur tushunish imkonini beradi.",
+      "Til bilishdan tashqari, Chet tili va adabiyoti: Ingliz mutaxassisliklari adabiy matnlarni tanqidiy tahlil qilish, mavzular, ramzlar va adabiy uslublarni o'rganish bilan shug'ullanadi. Talabalar yaqindan o‘qish va sharhlash orqali matnlarni o‘zlarining madaniy, tarixiy va ijtimoiy-siyosiy sharoitlari doirasida tahlil qilishni o‘rganadilar, insoniyat tajribasining murakkabliklari haqida tushunchaga ega bo‘ladilar. Kanonik va marginal mualliflarning asarlarini o'rganish orqali talabalar ingliz adabiyotini shakllantiradigan turli xil ovozlar va istiqbollar haqida kengroq tushunchani rivojlantiradilar.",
+      "Bundan tashqari, Chet tili va adabiyoti: Ingliz tili mutaxassisligi talabalarni ta'lim, nashriyot, jurnalistika, tarjima va madaniy diplomatiya kabi sohalarda turli martaba yo'nalishlariga tayyorlaydi. Bitiruvchilar ingliz tili o'qituvchisi, yozuvchi, muharrir yoki madaniyat elchisi sifatida til va madaniy chegaralar bo'ylab samarali muloqot qilish uchun o'zlarining til bilimlari va tanqidiy fikrlash qobiliyatlaridan foydalangan holda imkoniyatlarga ega bo'lishlari mumkin. Ingliz tili va uning adabiy merosiga bo'lgan hurmatni oshirish orqali dastur talabalarni globallashgan dunyoni kezish va madaniyatlar o'rtasidagi g'oyalar va istiqbollarni almashishga hissa qo'shishga yordam beradi."
+    ],
+    "descrption_ru": [
+      "Иностранный язык и литература: Специальность 'Английский язык' на уровне университета вовлекает студентов в изучение английского языка, литературы и культуры. Через обширную учебную программу студенты изучают нюансы грамматики, словарного запаса, фонетики и синтаксиса английского языка, развивая навыки чтения, письма, устной речи и аудирования. Основные курсы охватывают широкий спектр литературных жанров и периодов, от шекспировских драм до современной фантастики, что позволяет студентам глубоко понять английскую литературную традицию.",
+      "Помимо языкового обучения, специальность 'Иностранный язык и литература: Английский язык' включает в себя критический анализ литературных текстов, изучение тем, символов и литературных стилей. Студенты учатся анализировать тексты в их культурном, историческом и социально-политическом контексте через тщательное чтение и интерпретацию, получая представление о сложностях человеческого опыта. Изучая произведения канонических и маргинальных авторов, студенты развивают более широкое понимание разнообразных голосов и перспектив, формирующих английскую литературу.",
+      "Кроме того, специальность 'Иностранный язык и литература: Английский язык' готовит студентов к карьере в таких областях, как образование, издательское дело, журналистика, перевод и культурная дипломатия. Выпускники могут работать учителями английского языка, писателями, редакторами или культурными послами, используя свои языковые знания и критические навыки мышления для эффективного общения через языковые и культурные границы. Программа помогает студентам развить уважение к английскому языку и его литературному наследию, готовя их к навигации в глобализированном мире и способствуя обмену идеями и перспективами между культурами."
+    ],
+    "descrption_en": [
+      "Foreign Language and Literature: The university-level English major engages students in the study of English language, literature, and culture. Through a comprehensive curriculum, students learn the nuances of English grammar, vocabulary, phonetics, and syntax, developing skills in reading, writing, speaking, and listening. Core courses cover a wide range of literary genres and periods, from Shakespearean drama to contemporary fiction, allowing students to gain a deep understanding of the English literary tradition.",
+      "In addition to language proficiency, the Foreign Language and Literature: English major involves the critical analysis of literary texts, exploring themes, symbols, and literary styles. Students learn to analyze texts within their cultural, historical, and socio-political contexts through close reading and interpretation, gaining insights into the complexities of human experience. By studying the works of canonical and marginal authors, students develop a broader understanding of the diverse voices and perspectives that shape English literature.",
+      "Furthermore, the Foreign Language and Literature: English major prepares students for diverse career paths in education, publishing, journalism, translation, and cultural diplomacy. Graduates can pursue opportunities as English language teachers, writers, editors, or cultural ambassadors, utilizing their language expertise and critical thinking skills to communicate effectively across linguistic and cultural boundaries. By fostering an appreciation for the English language and its literary heritage, the program equips students to navigate a globalized world and contribute to the exchange of ideas and perspectives between cultures."
+    ]
+  },
+  {
+    "id": 15,
+    "image": "15.1.png",
+    "languages_uz": "Ingliz tili",
+    "formats_uz": "Kunduzgi",
+    "title_uz": "Filologiya va tillarni o'qitish: ingliz tili",
+    "languages_ru": "Английский язык",
+    "languages_en": "Ingliz tili",
+    "formats_ru": "Очное",
+    "formats_en": "Full-time",
+    "title_ru": "Филология и преподавание языков: английский язык",
+    "title_en": "Philology and language teaching: English",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "language_ru": "Узбекский язык",
+        "language_en": "O'zbek tili"
+      }
+    ],
+    "descrption_uz": [
+      "Filologiya va tillarni o'qitish: Universitet darajasidagi ingliz tili yo'nalishi til tuzilishi, tarixi va qo'llanilishini o'rganishni ingliz tilini ikkinchi yoki chet tili sifatida o'qitishning pedagogik usullari bilan birlashtiradi. Keng qamrovli o‘quv dasturi orqali talabalar ingliz tilini chuqur tushunish uchun tilshunoslik tamoyillarini, jumladan fonetika, morfologiya, sintaksis va semantikani o‘rganadilar. Asosiy kurslar tilni oʻzlashtirish nazariyalari, til oʻrgatish metodologiyalari va turli oʻquvchilar populyatsiyasiga moslashtirilgan baholash strategiyalariga qaratilgan.",
+      "Nazariy bilimlarga qo‘shimcha ravishda, Filologiya va til o‘qitish: Ingliz mutaxassisliklari sinfda kuzatishlar, o‘qitish amaliyoti va til o‘rgatish kabi amaliy tajribalar bilan shug‘ullanadi. Ushbu amaliy imkoniyatlar talabalarga til o‘rgatish nazariyalarini real sharoitlarda qo‘llash, o‘quv materiallarini ishlab chiqish va samarali o‘qitish strategiyalarini amalga oshirish imkonini beradi. Turli xil madaniy va tilshunoslikdagi ingliz tilini o'rganuvchilar bilan ishlash orqali talabalar tilni o'zlashtirish va o'qitishning qiyinchiliklari va imkoniyatlari haqida tushunchaga ega bo'ladilar.",
+      "Bundan tashqari, Filologiya va tillarni o'qitish: Ingliz tili mutaxassisligi talabalarni til ta'limi bo'yicha martaba, jumladan, ingliz tili o'qituvchilari, o'quv dasturlarini ishlab chiquvchilar, til dasturlari koordinatorlari yoki tilni baholash bo'yicha mutaxassislar rollariga tayyorlaydi. Bitiruvchilar mahalliy va xorijda til maktablari, xalqaro maktablar, universitetlar yoki til o'rgatuvchi tashkilotlarda imkoniyatlarga ega bo'lishlari mumkin. Talabalarni ingliz tilini samarali o'rgatish uchun zarur bo'lgan bilim, ko'nikma va amaliy tajriba bilan qurollantirish orqali dastur bitiruvchilarni butun dunyo bo'ylab talabalarning til o'rganish tajribasiga mazmunli ta'sir ko'rsatishga tayyorlaydi."
+    ],
+    "descrption_ru": [
+      "Филология и преподавание языков: Университетский курс английского языка объединяет изучение структуры, истории и использования английского языка с педагогическими методами обучения как второму, так и иностранному языку. Широкая учебная программа позволяет студентам глубоко понять английский язык, включая основы фонетики, морфологии, синтаксиса и семантики для более глубокого понимания языка. Основные курсы включают в себя теоретические основы лингвистики, методологию обучения языку и стратегии оценки, адаптированные к различным популяциям учащихся.",
+      "Дополнительно к теоретическим знаниям, специалисты по филологии и преподаванию языков проводят наблюдения в классе, занимаются преподавательской деятельностью и преподносят языковые знания через практические методы обучения. Эти практические возможности позволяют студентам применять языковые учебные концепции в реальных условиях, разрабатывать учебные материалы и реализовывать эффективные стратегии обучения. Работа с учениками, изучающими английский язык с разным культурным и лингвистическим фоном, помогает студентам лучше понять сложности и возможности освоения и преподавания языка.",
+      "Кроме того, обучение филологии и преподавание языков готовит студентов к различным ролям в области преподавания языка, включая преподавателей английского языка, разработчиков учебных программ, координаторов программ обучения языку и экспертов по оценке языка. Выпускники могут получить возможности работы в местных и международных языковых школах, международных школах, университетах или языковых организациях. Подготовка студентов фундаментальным знаниям, методологическим инструментарием и практическим опытом обучения языку позволяет выпускникам участвовать в разнообразных образовательных средах по всему миру, оказывая содержательное влияние на языковой опыт учащихся."
+    ],
+    "descrption_en": [
+      "Philology and language teaching: The university-level English language specialization combines the study of the structure, history, and usage of the English language with pedagogical methods of teaching it as a second or foreign language. Through a comprehensive curriculum, students delve into the nuances of English, including phonetics, morphology, syntax, and semantics, to gain a deeper understanding of the language. Core courses cover language acquisition theories, language teaching methodologies, and assessment strategies tailored to diverse learner populations.",
+      "In addition to theoretical knowledge, specialists in philology and language teaching engage in classroom observations, teaching practicum, and language instruction through practical teaching methods. These practical opportunities enable students to apply language education concepts in real-world settings, develop instructional materials, and implement effective teaching strategies. Working with learners with diverse cultural and linguistic backgrounds helps students better grasp the complexities and possibilities of language acquisition and instruction.",
+      "Furthermore, training in philology and language teaching prepares students for various roles in language education, including English language instructors, curriculum developers, language program coordinators, and language assessment experts. Graduates can pursue opportunities in local and international language schools, international schools, universities, or language organizations. Equipping students with foundational knowledge, methodological tools, and practical language teaching experience enables graduates to engage in diverse educational settings worldwide, making a meaningful impact on students' language learning experiences."
+    ]
+  },
+  {
+    "id": 16,
+    "image": "16.1.png",
+    "languages_uz": "Rus tili",
+    "languages_ru": "Русский язык",
+    "languages_en": "Russian",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Filologiya va tillarni o'qitish: rus tili",
+    "title_ru": "Филология и преподавание языков: русский язык",
+    "title_en": "Philology and Language Teaching: Russian Language",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Курсовая",
+        "format_en": "Full-time",
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 года",
+        "duration_en": "5 years",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Filologiya va tillarni o'qitish: Universitet darajasidagi rus mutaxassisligi rus tili, adabiyoti va madaniyatini o'rganishni rus tilini ikkinchi yoki chet tili sifatida o'qitishning pedagogik yondashuvlari bilan birlashtiradi. Keng qamrovli o'quv dasturi orqali talabalar rus tilining tuzilishi, grammatikasi, lug'ati va qo'llanilishini o'rganadilar, o'qish, yozish, gapirish va tinglash bo'yicha malakaga ega bo'lishadi. Asosiy kurslar tilni o'zlashtirish nazariyalari, til o'rgatish metodologiyalari va turli o'quvchilar populyatsiyasiga moslashtirilgan baholash strategiyalarini qamrab oladi.",
+      "Nazariy kurs ishiga qo'shimcha ravishda, Filologiya va til o'rgatish: Rus mutaxassisliklari amaliyotni o'rgatish, til o'rgatish va immersion dasturlari kabi amaliy tajribalarda ishtirok etadilar. Ushbu amaliy imkoniyatlar talabalarga til o‘rgatish nazariyalarini haqiqiy kontekstlarda qo‘llash, o‘quv materiallarini ishlab chiqish va samarali o‘qitish strategiyalarini amalga oshirish imkonini beradi. Talabalar turli til va madaniyatlarga mansub o'quvchilar bilan ishlash orqali tilni o'zlashtirish va o'qitishning qiyinchiliklari va strategiyalari haqida amaliy tushunchaga ega bo'ladilar.",
+      "Bundan tashqari, filologiya va tillarni o'qitish: rus mutaxassisligi talabalarni til ta'limi bo'yicha martaba, jumladan, rus tili o'qituvchilari, o'quv dasturlarini ishlab chiquvchilar, til dasturlari koordinatorlari yoki tilni baholash bo'yicha mutaxassislar rollariga tayyorlaydi. Bitiruvchilar mahalliy va xorijda til maktablari, xalqaro maktablar, universitetlar yoki til o'rgatuvchi tashkilotlarda imkoniyatlarga ega bo'lishlari mumkin. Talabalarni rus tilini samarali o'rgatish uchun zarur bo'lgan bilim, ko'nikma va amaliy tajriba bilan jihozlash orqali dastur bitiruvchilarga rus tili va madaniyatini madaniyatlararo tushunish va qadrlashni rivojlantirishga yordam beradi."
+    ],
+    "descrption_ru": [
+      "Филология и преподавание языков: Специализация по русскому языку на уровне университета сочетает изучение структуры, истории и использования русского языка с педагогическими методами его преподавания как второго или иностранного языка. Через комплексную программу студенты углубляются в тонкости русского языка, включая фонетику, морфологию, синтаксис и семантику, чтобы получить более глубокое понимание языка. Основные курсы охватывают теоретические основы приобретения языка, методологию его преподавания и стратегии оценки, адаптированные к разнообразным группам учащихся.",
+      "Помимо теоретических знаний, специалисты в области филологии и преподавания языков проводят наблюдения в классе, проходят практикум по преподаванию и применяют языковые знания через практические методы обучения. Эти практические возможности позволяют студентам применять концепции языкового образования в реальных условиях, разрабатывать учебные материалы и использовать эффективные стратегии преподавания. Работа с учащимися с различными культурными и лингвистическими фонами помогает студентам лучше понимать сложности и возможности приобретения и преподавания языка.",
+      "Чрезвычайно важно, что специалисты в области филологии и преподавания языков готовят студентов к различным ролям в сфере образования и языковых исследований. Эти выпускники могут найти работу как преподаватели русского языка, разработчики учебных программ, координаторы языковых курсов или эксперты по оценке языковых знаний. Возможности трудоустройства открываются в местных и международных языковых школах, университетах или организациях, занимающихся преподаванием языков. Подготовка студентов к обучению с использованием современных методик, а также практические навыки преподавания и исследования позволяют им активно участвовать в мировом образовательном сообществе и вносить свой вклад в развитие языкового образования и культурного обмена."
+    ],
+    "descrption_en": [
+      "Philology and language teaching: The specialization in Russian language at university level combines the study of the structure, history, and use of the Russian language with pedagogical methods of teaching it as a second or foreign language. Through a comprehensive program, students delve into the intricacies of the Russian language, including phonetics, morphology, syntax, and semantics, to gain a deeper understanding of the language. Core courses cover theoretical foundations of language acquisition, methodologies of teaching, and assessment strategies adapted to diverse student populations.",
+      "In addition to theoretical knowledge, experts in philology and language teaching engage in classroom observations, teaching practicums, and apply language knowledge through practical teaching methods. These practical opportunities enable students to apply language education concepts in real-life settings, develop teaching materials, and employ effective teaching strategies. Working with students from diverse cultural and linguistic backgrounds helps students better understand the complexities and opportunities of language acquisition and teaching.",
+      "Furthermore, education in philology and language teaching prepares students for various roles in language education and research. These graduates can find employment as Russian language teachers, curriculum developers, language program coordinators, or language assessment experts. Employment opportunities exist in local and international language schools, universities, or language-teaching organizations. Equipped with fundamental knowledge, methodological tools, and practical teaching and research experience, graduates actively contribute to the global educational community and contribute to the development of language education and cultural exchange."
+    ]
+  },
+  {
+    "id": 17,
+    "image": "17.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Filologiya va tillarni o'qitish: o'zbek tili",
+    "title_ru": "Преподавание филологии и языков: узбекский язык",
+    "title_en": "Teaching Philology and Languages: Uzbek Language",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 года",
+        "duration_en": "5 years",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Filologiya va tillarni o'qitish: Universitet darajasidagi o'zbek mutaxassisligi o'zbek tili, adabiyoti va madaniyatini o'rganishni o'zbek tilini ikkinchi yoki chet tili sifatida o'qitishning pedagogik yondashuvlari bilan birlashtiradi. Keng qamrovli o‘quv dasturi orqali o‘quvchilar o‘zbek tilining fonetikasi, morfologiyasi, sintaksisi va semantikasini o‘rganadilar, o‘qish, yozish, gapirish va tinglash kabi ko‘nikmalarga ega bo‘ladilar. Asosiy kurslar tilni o'zlashtirish nazariyalarini, o'qitish metodologiyasini va turli o'quvchilar populyatsiyasiga moslashtirilgan baholash strategiyalarini qamrab oladi.",
+      "Nazariy kurs ishiga qo‘shimcha ravishda, “Filologiya va til o‘rgatish”: O‘zbek mutaxassisligi bo‘yicha o‘quv kurslari amaliy mashg‘ulotlarni o‘rgatish, til o‘rgatish va immersion dasturlari kabi amaliy tajribalar bilan shug‘ullanadi. Ushbu amaliy imkoniyatlar talabalarga til o‘rgatish nazariyalarini haqiqiy kontekstlarda qo‘llash, o‘quv materiallarini ishlab chiqish va samarali o‘qitish strategiyalarini amalga oshirish imkonini beradi. Talabalar turli til va madaniyatlarga mansub o'quvchilar bilan ishlash orqali tilni o'zlashtirish va o'qitishning qiyinchiliklari va strategiyalari haqida amaliy tushunchaga ega bo'ladilar.",
+      "Bundan tashqari, Filologiya va til oʻqitish: Oʻzbek mutaxassisligi talabalarni til taʼlimi boʻyicha martaba, jumladan, oʻzbek tili oʻqituvchilari, oʻquv dasturlarini ishlab chiquvchilar, til dasturlari koordinatorlari yoki tilni baholash boʻyicha mutaxassislar kabi rollarga tayyorlaydi. Bitiruvchilar mahalliy va xorijda til maktablari, xalqaro maktablar, universitetlar yoki til o'rgatuvchi tashkilotlarda imkoniyatlarga ega bo'lishlari mumkin. Talabalarni o‘zbek tilini samarali o‘rgatish uchun zarur bo‘lgan bilim, ko‘nikma va amaliy tajribalar bilan qurollantirish orqali dastur bitiruvchilarga til xilma-xilligi va madaniy tushunishni rivojlantirish imkonini beradi."
+    ],
+    "descrption_ru": [
+      "Филология и преподавание языков: Направление по узбекскому языку на университетском уровне объединяет изучение структуры, истории и использования узбекского языка с педагогическими методами его преподавания как второго или иностранного языка. Через комплексную программу студенты погружаются в тонкости узбекского языка, включая фонетику, морфологию, синтаксис и семантику, чтобы получить глубокое понимание языка. Основные курсы охватывают теоретические основы приобретения языка, методологию обучения и стратегии оценки, адаптированные к различным категориям учащихся.",
+      "Практические занятия, дополняющие теоретический курс «Филология и преподавание языков», включают педагогическую практику, методику преподавания языка и программы иммерсии. Эти практические возможности позволяют студентам применять теоретические знания о преподавании языка в реальных ситуациях, разрабатывать учебные материалы и стратегии эффективного обучения. В результате выпускники становятся квалифицированными преподавателями узбекского языка и культуры."
+    ],
+    "descrption_en": [
+      "Philology and language teaching: The Uzbek language direction at the university level combines the study of the structure, history, and usage of the Uzbek language with pedagogical methods of teaching it as a second or foreign language. Through a comprehensive program, students delve into the intricacies of the Uzbek language, including phonetics, morphology, syntax, and semantics, to gain a deep understanding of the language. Core courses cover theoretical foundations of language acquisition, teaching methodology, and assessment strategies tailored to various student populations.",
+      "Practical sessions complementing the theoretical course of 'Philology and Language Teaching' involve pedagogical practice, language teaching methodology, and immersion programs. These practical opportunities allow students to apply theoretical knowledge of language teaching in real-life situations, develop teaching materials, and strategies for effective learning. As a result, graduates become qualified teachers of Uzbek language and culture."
+    ]
+  },
+  {
+    "id": 18,
+    "image": "18.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Milliy g'oya, ma'naviyat asoslari va huquq ta'limi",
+    "title_ru": "Национальное мировоззрение, основы духовности и правовое образование",
+    "title_en": "National Ideology, Spiritual Foundations, and Legal Education",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "format_ru": "Заочное",
+        "format_en": "Part-time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 лет",
+        "duration_en": "5 years",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet miqyosida “Milliy g‘oya, ma’naviyat asoslari” va “Huquqiy ta’lim” yo‘nalishida asosiy e’tibor mamlakatning madaniy o‘ziga xosligi, axloqiy qadriyatlari va huquqiy tamoyillarini chuqur anglashni tarbiyalashga qaratilgan. Ko‘p tarmoqli o‘quv dasturi orqali talabalar milliy ong va huquqiy asoslarni shakllantiruvchi tarixiy, falsafiy va axloqiy asoslarni o‘rganadilar. Asosiy kurslar milliy o‘zlikni anglash, madaniy meros, diniy an’analar va adolat tamoyillari kabi mavzularni o‘rganadi, talabalarga huquqiy tizimlar asosini tashkil etuvchi jamiyat qadriyatlari va normalari haqida har tomonlama tushuncha beradi.",
+      "Nazariy kurs ishlari bilan bir qatorda, ushbu mutaxassislik bo'yicha talabalar ko'pincha seminarlar, seminarlar va jamoat ishlari bo'yicha loyihalar kabi amaliy tajribalar bilan shug'ullanadilar. Bu imkoniyatlar talabalarga nazariy tushunchalarni real sharoitlarda qo‘llash, tanqidiy fikrlash ko‘nikmalarini rivojlantirish, huquqiy va axloqiy tamoyillarning amaliy ahamiyatini o‘rganish imkonini beradi. Zamonaviy muammolar va dilemmalar bilan kurashish orqali talabalar qonun, axloq va jamiyat normalari o'rtasidagi murakkab o'zaro bog'liqlik haqida tushunchaga ega bo'ladilar.",
+      "Qolaversa, “Milliy g‘oya”, “Ma’naviyat asoslari” va “Huquqiy ta’lim” yo‘nalishlari bo‘yicha mutaxassislik talabalarni huquq, davlat siyosati, ta’lim va targ‘ibot va boshqa sohalardagi rollarga tayyorlaydi. Bitiruvchilar o‘zlarining milliy o‘ziga xoslik, ma’naviyat va huquqiy tamoyillar haqidagi tushunchalaridan foydalanib, adolat, tenglik va ijtimoiy hamjihatlikni ta’minlash uchun huquqshunos, sudya, huquqshunos olim, o‘qituvchi yoki madaniyat elchisi bo‘lib ishlashlari mumkin. Madaniy ong va axloqiy mulohazani o'zida mujassam etgan huquqiy ta'limga yaxlit yondashuvni qo'llab-quvvatlagan holda, dastur bitiruvchilarni huquqning murakkabliklarida harakat qilish va adolatli va inklyuziv jamiyatni rivojlantirishga hissa qo'shishga yordam beradi."
+    ],
+    "descrption_ru": [
+      "На уровне университета в основном внимание уделяется глубокому пониманию национальной специфики, духовных ценностей и правовых концепций страны. Через множество насыщенных учебных программ студенты изучают исторические, философские и этические основы, формирующие национальную идентичность, культурное наследие, религиозные традиции и понятия справедливости. Основные курсы предоставляют понимание национального самосознания, культурного наследия, религиозных обрядов и концепций справедливости, а также обеспечивают студентам всеобъемлющее представление о социальных ценностях и нормах, лежащих в основе правовых систем.",
+      "Помимо теоретической работы, студенты данной специальности активно участвуют в практических заняах, семинарах и проектных работах по соответствующей специализации. Эти возможности позволяют студентам применять теоретические знания в реальных условиях, развивать критическое мышление, расширять понимание практической значимости правовых и этических концепций. Борьба с современными проблемами и дилеммами позволяет студентам развить понимание сложных взаимосвязей между законом, этикой и социальными нормами.",
+      "В итоге специализация по «Национальному мировоззрению», «Основам духовности» и «Правовому образованию» готовит студентов к ролям в области права, государственной политики, образования и пропаганды, а также к другим ролям в общественных сферах. Выпускники могут заниматься профессиональной деятельностью в качестве юристов, судей, правовых консультантов, преподавателей или культурных агентов, используя свои понимание национальной идентичности, духовности и правовых концепций для обеспечения справедливости, равенства и социального согласия. Поддерживая развитие правового образования, основанного на культурных и духовных наблюдениях, специализация способствует участию выпускников в продвижении движения к более справедливому и инклюзивному обществу."
+    ],
+    "descrption_en": [
+      "At the university level, the focus is primarily on deeply understanding the national specificity, spiritual values, and legal concepts of the country. Through a plethora of rich educational programs, students explore the historical, philosophical, and ethical foundations shaping national identity, cultural heritage, religious traditions, and notions of justice. Core courses provide an understanding of national self-awareness, cultural heritage, religious rituals and concepts of justice, as well as afford students a comprehensive understanding of the societal values and norms underlying legal systems.",
+      "In addition to theoretical work, students in this specialization actively engage in practical seminars, workshops, and project works relevant to their field. These opportunities enable students to apply theoretical knowledge in real-world settings, develop critical thinking, and broaden their understanding of the practical significance of legal and ethical concepts. Tackling contemporary issues and dilemmas allows students to develop an understanding of the complex interplay between law, ethics, and social norms.",
+      "As a result, the specialization in 'National Ideology,' 'Spiritual Foundations,' and 'Legal Education' prepares students for roles in law, state policy, education, and advocacy, as well as other roles in public spheres. Graduates can pursue professional careers as lawyers, judges, legal consultants, educators, or cultural agents, utilizing their understanding of national identity, spirituality, and legal concepts to uphold justice, equality, and social harmony. By fostering the development of legal education grounded in cultural and spiritual insights, the specialization contributes to graduates' involvement in advancing toward a more just and inclusive society."
+    ]
+  },
+  {
+    "id": 19,
+    "image": "19.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Axborot tizimlari va texnologiyalari (tarmoqlar va sohalar boyicha)",
+    "title_ru": "Системы и технологии информации (по сетям и областям)",
+    "title_en": "Information Systems and Technologies (by Networks and Domains)",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "format_ru": "Заочное",
+        "format_en": "Part-time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 лет",
+        "duration_en": "5 years",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi Axborot tizimlari va texnologiyalari yo'nalishi kompyuterga asoslangan axborot tizimlari va ularning turli sohalarda qo'llanilishini o'rganishga qaratilgan. Nazariy ta'lim va amaliy tajribalar kombinatsiyasi orqali talabalar ma'lumotlar bazasini boshqarish, dasturiy ta'minotni ishlab chiqish, tarmoq, kiberxavfsizlik va ma'lumotlar tahlili kabi mavzularni o'rganadilar. O'quv dasturi tashkiliy maqsadlar va qarorlar qabul qilish jarayonlarini qo'llab-quvvatlash uchun axborot tizimlarini loyihalash, joriy etish va boshqarishga urg'u beradi.",
+      "Kurs ishlaridan tashqari, talabalar ko'pincha nazariy bilimlarni real sharoitlarda qo'llash uchun amaliy loyihalar, amaliyotlar va sanoat hamkorliklari bilan shug'ullanadilar. Ushbu imkoniyatlar talabalarga axborot tizimlari va texnologiyalari sohasiga tegishli texnik ko'nikmalar, muammolarni hal qilish qobiliyatlari va loyihalarni boshqarish tajribasini rivojlantirishga imkon beradi. Zamonaviy texnologiyalar va sohaga tegishli loyihalar ustida ishlash orqali talabalar amaliy tajriba orttiradilar va tez rivojlanayotgan raqamli landshaftda martaba uchun tayyorlanishadi.",
+      "Bundan tashqari, Axborot tizimlari va texnologiyalari mutaxassisligi talabalarni dasturiy ta'minotni ishlab chiqish, IT-konsalting, tizim tahlili, kiberxavfsizlik va ma'lumotlarni boshqarish kabi sohalarda keng ko'lamli martaba imkoniyatlariga tayyorlaydi. Bitiruvchilar dasturiy ta'minot muhandislari, tizim ma'murlari, IT loyihalari menejerlari, ma'lumotlar tahlilchilari yoki kiberxavfsizlik bo'yicha mutaxassislar va boshqalar rollarini bajarishlari mumkin. Texnik ko'nikmalar va ishbilarmonlik qobiliyatida mustahkam poydevor yaratgan holda, dastur talabalarni murakkab muammolarni hal qilish va axborot tizimlari va texnologiyalarining tobora kengayib borayotgan sohasida innovatsiyalarni rivojlantirishga yordam beradi."
+    ],
+    "descrption_ru": [
+      "Направление по информационным системам и технологиям на уровне университета предназначено для изучения компьютерных информационных систем и их применения в различных областях. Комбинация теоретического обучения и практических опытов позволяет студентам изучать управление базами данных, разработку программного обеспечения, сети, кибербезопасность и анализ данных. Учебная программа предназначена для поддержки процессов организации и принятия решений в области информационных систем, их проектирования, внедрения и управления.",
+      "Помимо курсовых работ, студенты в основном занимаются практическими проектами, лабораторными работами и промышленными партнерствами для применения теоретических знаний в реальных условиях. Эти возможности позволяют студентам развивать технические навыки, способности к решению проблем и опыт управления проектами. Работа над современными технологиями и проектами в соответствующих областях позволяет студентам расширить свой практический опыт и готовиться к быстро развивающемуся цифровому ландшафту.",
+      "Кроме того, специализация по информационным системам и технологиям готовит студентов к широкому спектру возможностей на рынке труда в области разработки программного обеспечения, консалтинга в области информационных технологий, анализа систем, кибербезопасности и управления данными. Выпускники могут занимать должности программистов, системных администраторов, менеджеров по проектам в области информационных технологий, аналитиков данных или специалистов по кибербезопасности и многие другие роли. Обладая техническими знаниями и предпринимательскими навыками, студенты программы готовы решать сложные проблемы и способствовать инновациям в области информационных систем и технологий."
+    ],
+    "descrption_en": [
+      "The university-level specialization in Information Systems and Technologies is designed to explore computer-based information systems and their application in various domains. Through a combination of theoretical education and practical experiences, students learn about database management, software development, networking, cybersecurity, and data analysis. The curriculum is intended to support processes of organizing and decision-making in the field of information systems, their design, implementation, and management.",
+      "In addition to coursework, students are heavily engaged in practical projects, lab works, and industry partnerships to apply theoretical knowledge in real-world settings. These opportunities enable students to develop technical skills, problem-solving abilities, and project management experience. Working on contemporary technologies and projects in relevant domains allows students to enhance their practical experience and prepare for the rapidly evolving digital landscape.",
+      "Furthermore, the specialization in Information Systems and Technologies prepares students for a wide range of opportunities in the job market in software development, IT consulting, systems analysis, cybersecurity, and data management. Graduates can pursue roles as programmers, system administrators, IT project managers, data analysts, or cybersecurity specialists, among many other roles. Equipped with technical knowledge and entrepreneurial skills, students of the program are poised to tackle complex problems and contribute to innovations in the field of information systems and technologies."
+    ]
+  },
+  {
+    "id": 20,
+    "image": "20.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Axborot tizimlari va texnologiyalari (moliya-bank tizimida)",
+    "title_ru": "Системы и технологии информации (в банковской сфере)",
+    "title_en": "Information Systems and Technologies (in Banking Sector)",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "format_ru": "Заочное",
+        "format_en": "Part-time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 лет",
+        "duration_en": "5 years",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Bank va moliya tizimiga yo'naltirilgan axborot tizimlari va texnologiyalari yo'nalishi talabalarni moliyaviy operatsiyalar va xizmatlarni optimallashtirish uchun texnologiyadan foydalanishga tayyorlaydi. Ixtisoslashgan o'quv dasturi orqali talabalar moliyaviy ma'lumotlarni boshqarish, risklarni tahlil qilish, me'yoriy hujjatlarga muvofiqlik va moliyaviy dasturiy ta'minotni ishlab chiqish kabi mavzularni o'rganadilar. Dastur talabalarni moliyaviy tamoyillar va bank va moliya sanoatiga moslashtirilgan texnologik yechimlarni chuqur tushunish bilan jihozlaydi.",
+      "An'anaviy kurs ishlaridan tashqari, talabalar amaliy loyihalar va bank va moliya institutlarida amaliyot o'tashadi. Ushbu amaliy tajribalar talabalarga nazariy bilimlarni real sharoitlarda qo‘llash, moliya sohasida axborot tizimlaridan foydalanishning noyob muammolari va imkoniyatlari haqida tushunchaga ega bo‘lish imkonini beradi. Sanoat mutaxassislari bilan birga ishlash orqali talabalar moliyaviy xizmatlarda innovatsiya va samaradorlikni ta'minlovchi axborot tizimlarini loyihalash, joriy etish va boshqarish uchun zarur bo'lgan ko'nikma va tajribani rivojlantiradilar.",
+      "Bundan tashqari, bank va moliyaga yo'naltirilgan Axborot tizimlari va texnologiyalari yo'nalishi moliya sektorida turli martaba yo'llari uchun eshiklarni ochadi. Bitiruvchilar banklar, investitsiya firmalari, sug'urta kompaniyalari yoki tartibga solish agentliklarida moliyaviy tahlilchilar, IT-maslahatchilar, risk menejerlari, dasturiy ta'minot ishlab chiquvchilari yoki tizim arxitektorlari rollarini bajarishlari mumkin. Moliya va texnologiya sohasidagi tajribani birlashtirgan holda, bitiruvchilar moliya va axborot tizimlari kesishmasida harakat qilish va bank va moliyaviy xizmatlar kelajagini belgilovchi strategik tashabbuslarni amalga oshirish uchun yaxshi mavqega ega bo'ladilar."
+    ],
+    "descrption_ru": [
+      "Направление по информационным системам и технологиям, ориентированное на банковскую и финансовую сферы, готовит студентов к использованию технологий для оптимизации финансовых операций и услуг. Специализированная учебная программа позволяет студентам изучать управление финансовыми данными, анализ рисков, соответствие правовым документам и разработку финансового программного обеспечения. Программа обеспечивает студентов глубоким пониманием технологических решений, адаптированных к финансовым представлениям и банковской и финансовой отрасли.",
+      "Помимо традиционных курсов, студенты также проходят практические проекты и стажировки в банковских и финансовых учреждениях. Эти практические опыты предоставляют студентам возможность применять теоретические знания на практике, понимать уникальные проблемы и возможности использования информационных систем в финансовой сфере. Сотрудничество с отраслевыми экспспертами позволяет студентам разрабатывать, внедрять и управлять информационными системами, способствующими инновациям и эффективности в финансовых услугах.",
+      "Кроме того, специализация по информационным системам и технологиям в банковской сфере открывает широкий спектр возможностей для студентов на рынке труда. Выпускники могут занимать роли финансовых аналитиков, IT-консультантов, менеджеров по рискам, разработчиков программного обеспечения для финансовых учреждений или архитекторов информационных систем. Объединив опыт в финансах и технологиях, выпускники готовы к действиям в сфере финансов и информационных систем, чтобы способствовать стратегическим инициативам, определяющим будущее банковских и финансовых услуг."
+    ],
+    "descrption_en": [
+      "The specialization in Information Systems and Technologies, tailored to the banking and finance sectors, prepares students to utilize technology for optimizing financial operations and services. The specialized curriculum allows students to learn about managing financial data, analyzing risks, compliance with regulatory documents, and developing financial software solutions. The program equips students with a deep understanding of technological solutions adapted to financial representations and the banking and finance industry.",
+      "In addition to traditional coursework, students also engage in practical projects and internships in banking and financial institutions. These practical experiences provide students with opportunities to apply theoretical knowledge in practice, understand the unique challenges and opportunities of using information systems in the financial domain. Collaboration with industry experts allows students to develop, implement, and manage information systems that drive innovation and efficiency in financial services.",
+      "Furthermore, the specialization in Information Systems and Technologies in the banking sector opens up a wide range of opportunities for students in the job market. Graduates can pursue roles as financial analysts, IT consultants, risk managers, software developers for financial institutions, or information systems architects. By combining expertise in finance and technology, graduates are ready to act in the realm of finance and information systems, contributing to strategic initiatives that shape the future of banking and financial services."
+    ]
+  },
+  {
+    "id": 21,
+    "image": "21.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Axborot tizimlari va texnologiyalari (temir yo'l transporti)",
+    "title_ru": "Информационные системы и технологии (железнодорожный транспорт)",
+    "title_en": "Information Systems and Technologies (Railway Transport)",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "format_ru": "Очное",
+        "format_en": "Full-time",
+        "duration_uz": "4 yil",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "format_ru": "Заочное",
+        "format_en": "Part-time",
+        "duration_uz": "5 yil",
+        "duration_ru": "5 лет",
+        "duration_en": "5 years",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "language_ru": "Узбекский язык",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Temir yo‘l transportiga yo‘naltirilgan “Axborot tizimlari va texnologiyalari” yo‘nalishi talabalarni temir yo‘l operatsiyalarini optimallashtirish va infratuzilmani boshqarish texnologiyasidan foydalanish bo‘yicha bilim va ko‘nikmalar bilan ta’minlaydi. Maxsus kurs ishlari orqali talabalar temir yo'l signalizatsiya tizimlari, harakatni boshqarish, rejalashtirish algoritmlari va axborot tizimlaridan foydalangan holda aktivlarga texnik xizmat ko'rsatish kabi mavzularni o'rganadilar. Dastur axborot texnologiyalari tamoyillarini temir yo'l operatsiyalari va logistika bo'yicha sohaga oid bilimlar bilan uyg'unlashtiradi.",
+      "Nazariy ta’limdan tashqari, talabalar temir yo‘l kompaniyalari yoki transport tizimlarini nazorat qiluvchi davlat idoralarida amaliy loyihalar va amaliyot o‘tamoqda. Ushbu amaliy tajribalar talabalarga nazariy tushunchalarni real dunyo muammolariga qo‘llash, temir yo‘l infratuzilmasini boshqarish va modernizatsiya qilishning murakkabliklari haqida tushunchaga ega bo‘lish imkonini beradi. Sanoat mutaxassislari bilan birga ishlash orqali talabalar temir yo'l transportining xavfsizligi, samaradorligi va ishonchliligini oshiradigan axborot tizimlarini loyihalash, joriy etish va saqlash uchun zarur bo'lgan tajribani rivojlantiradilar.",
+      "Bundan tashqari, temir yo'l transportiga yo'naltirilgan axborot tizimlari va texnologiyalari yo'nalishi transport sohasida turli martaba imkoniyatlariga eshiklarni ochadi. Bitiruvchilar temir yo'l tizimlari muhandislari, transportni rejalashtiruvchilar, IT mutaxassislari, loyiha menejerlari yoki temir yo'l kompaniyalari, davlat idoralari, konsalting firmalari yoki texnologiya sotuvchilari kabi vazifalarni bajarishlari mumkin. Axborot tizimlaridagi tajribani temir yo'l operatsiyalarini chuqur tushunish bilan birlashtirgan holda, bitiruvchilar innovatsiyalarni rag'batlantirish va temir yo'l transporti tizimlarining barqarorligini oshirishda hal qiluvchi rol o'ynaydi."
+    ],
+    "descrption_ru": [
+      "Направление по информационным системам и технологиям, ориентированное на железнодорожный транспорт, готовит студентов к оптимизации железнодорожных операций и управлению инфраструктурой с использованием технологий. Специализированные курсы позволяют студентам изучать системы сигнализации железных дорог, управление движением, алгоритмы регулирования и предоставление технических услуг для активов с использованием информационных систем. Программа сочетает информационные технологии с знаниями и навыками в области железнодорожных операций и логистики.",
+      "Помимо теоретического обучения, студенты также участвуют в практических проектах и стажировках в железнодорожных компаниях или государственных управлениях, ответственных за надзор за железнодорожными системами. Эти практические опыты помогают студентам применять теоретические знания к реальным проблемам мира, понимать уникальные вызовы и возможности использования информационных систем в железнодорожной инфраструктуре. Сотрудничество с промышленными экспертами позволяет студентам разрабатывать, внедрять и обслуживать информационные системы, способствующие увеличению безопасности, эффективности и надежности железнодорожного транспорта.",
+      "Кроме того, специализация в области информационных систем и технологий для железнодорожного транспорта открывает широкие карьерные возможности для студентов. Выпускники могут занимать позиции инженеров железнодорожных систем, специалистов по планированию транспортных маршрутов, IT-специалистов, менеджеров проектов или работать в железнодорожных компаниях, государственных органах, консалтинговых фирмах или поставщиках технологий. Объединив знания в области информационных систем с пониманием железнодорожных операций, выпускники готовы к содействию инновациям и повышению эффективности систем железнодорожного транспорта."
+    ],
+    "descrption_en": [
+      "The specialization in Information Systems and Technologies, tailored to railway transport, equips students with knowledge and skills to optimize railway operations and manage infrastructure using technology. Specialized coursework allows students to learn about railway signaling systems, traffic management, regulation algorithms, and providing technical services to assets using information systems. The program integrates information technologies with knowledge and skills in railway operations and logistics.",
+      "In addition to theoretical education, students also engage in practical projects and internships at railway companies or government agencies responsible for supervising railway systems. These practical experiences help students apply theoretical knowledge to real-world challenges, understand the unique challenges and opportunities of using information systems in railway infrastructure management and modernization. Collaboration with industry experts allows students to develop, implement, and maintain information systems that enhance the safety, efficiency, and reliability of railway transport.",
+      "Furthermore, the specialization in Information Systems and Technologies for railway transport opens up wide career opportunities for students. Graduates can pursue positions as railway systems engineers, transport route planning specialists, IT professionals, project managers, or work in railway companies, government agencies, consulting firms, or technology vendors. By combining expertise in information systems with understanding of railway operations, graduates are prepared to contribute to innovation and increased efficiency in railway transport systems."
+    ]
+  },
+  {
+    "id": 23,
+    "image": "23.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский",
+    "languages_en": "Uzbek",
+    "title_uz": "Kompyuter injiniringi: Kompyuter injiniringi",
+    "title_ru": "Компьютерная инженерия: Компьютерная инженерия",
+    "title_en": "Computer Engineering: Computer Engineering",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и заочное",
+    "formats_en": "Full-time and Part-time",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очное",
+        "duration_ru": "4 года",
+        "duration_en": "4 years",
+        "language_ru": "Узбекский",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "duration_uz": "5 yil",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Заочное",
+        "duration_ru": "5 лет",
+        "duration_en": "5 years",
+        "language_en": "Uzbek language",
+        "language_ru": "Узбекский"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi kompyuter injiniringi mutaxassisligi kompyuter texnikasi va dasturiy tizimlarini loyihalash, ishlab chiqish va joriy etishga qaratilgan. Keng qamrovli o'quv dasturi orqali talabalar raqamli mantiq, kompyuter arxitekturasi, dasturlash tillari va o'rnatilgan tizimlar kabi mavzularni o'rganadilar. Dastur talabalarni innovatsion hisoblash echimlarini yaratish uchun zarur bo'lgan ko'nikma va bilimlar bilan jihozlash uchun elektrotexnika va kompyuter fanlari tamoyillarini birlashtiradi.",
+      "Nazariy bilim olishdan tashqari, talabalar kompyuter tizimlarini qurish va sinovdan o‘tkazish bo‘yicha amaliy tajriba orttirish uchun amaliy loyihalar va laboratoriya ishlari bilan shug‘ullanadilar. Ushbu tajribalar talabalarga nazariy tushunchalarni real dunyo muammolariga qo'llash, muammolarni hal qilish va texnik mahoratni rivojlantirish imkonini beradi. Mikroprotsessorlarni loyihalashdan tortib dasturiy ilovalarni ishlab chiqishgacha bo'lgan loyihalar ustida ishlash orqali talabalar innovatsiyalar kiritishni va tez rivojlanayotgan kompyuter injiniring sohasiga moslashishni o'rganadilar.",
+      "Bundan tashqari, kompyuter muhandisligi mutaxassisligi talabalarni texnologiya, telekommunikatsiya, aerokosmik va avtomobilsozlik kabi sohalarda keng ko'lamli martaba imkoniyatlariga tayyorlaydi. Bitiruvchilar apparat muhandislari, dasturiy ta'minot ishlab chiquvchilari, tizim tahlilchilari yoki texnologiya bo'yicha maslahatchilar va boshqalar rollarini bajarishlari mumkin. Hisoblashning apparat va dasturiy jihatlari bo'yicha tajribani birlashtirgan holda, bitiruvchilar murakkab muhandislik muammolarini hal qilish va texnologiya va innovatsiyalarni rivojlantirish uchun yaxshi jihozlangan."
+    ],
+    "descrption_ru": [
+      "Специализация по компьютерному инжинирингу на университетском уровне предназначена для проектирования, разработки и внедрения компьютерной техники и программных систем. Широкий учебный план включает изучение цифровой логики, компьютерной архитектуры, языков программирования и различных систем. Программа подготовки оснащает студентов инновационными аналитическими инструментами для разработки компьютерной и электротехнической техники.",
+      "Помимо теоретического обучения, студенты занимаются практическими проектами и лабораторными работами по созданию и тестированию компьютерных систем. Этот опыт позволяет студентам применять теоретические знания на практике, решать проблемы и развивать техническое мастерство. Работа над проектами по разработке микропроцессоров и программного обеспечения помогает студентам внедрять инновации и адаптироваться к быстро развивающемуся сектору компьютерного инжиниринга.",
+      "Кроме того, специализация в области компьютерного инжиниринга готовит студентов к широкому спектру возможностей в таких областях, как технологии, телекоммуникации, аэрокосмическая и автомобильная отрасли. Выпускники могут занимать должности инженеров по оборудованию, разработчиков программного обеспечения, аналитиков систем или консультантов по технологиям и другие.",
+      "Благодаря объединению опыта в области аппаратного и программного обеспечения, выпускники специализации в компьютерном инжиниринге умеют решать сложные инженерные задачи и разрабатывать технологии и инновации в области информационных технологий."
+    ],
+    "descrption_en": [
+      "The university-level specialization in computer engineering prepares students for the design, development, and implementation of computer hardware and software systems. Through a comprehensive curriculum, students learn about topics such as digital logic, computer architecture, programming languages, and embedded systems. The program equips students with the necessary knowledge and skills for innovative thinking in the field of computer engineering.",
+      "In addition to theoretical learning, students engage in practical projects and laboratory work to create and test computer systems. These experiences enable students to apply theoretical knowledge in practice, address real-world problems, and develop technical skills. Working on projects, from designing microprocessors to developing software applications, enables students to introduce innovations and adapt successfully to the rapidly evolving field of computer engineering.",
+      "Furthermore, the computer engineering specialization prepares students for various high-level opportunities in technology, telecommunications, aerospace, and automotive engineering fields. Graduates can pursue roles as hardware engineers, software developers, system analysts, or technology consultants, among others. Consolidating expertise in hardware and software aspects of computing, graduates tackle complex engineering challenges and contribute to the advancement of technology and innovation."
+    ]
+  },
+  {
+    "id": 24,
+    "image": "24.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Kompyuter injiniringi: AT-Servis",
+    "title_ru": "Компьютерная инженерия: AT-Сервис",
+    "title_en": "Computer Engineering: AT-Service",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очно",
+        "duration_ru": "4 года",
+        "language_ru": "Узбекский язык",
+        "format_en": "Full-time",
+        "duration_en": "4 years",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "duration_uz": "5 yil",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Заочно",
+        "duration_ru": "5 лет",
+        "language_ru": "Узбекский язык",
+        "format_en": "Part-time",
+        "duration_en": "5 years",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Kompyuter injiniringi: Universitet darajasidagi IT xizmati mutaxassisligi kompyuter muhandisligi tamoyillarini axborot texnologiyalari (IT) xizmatlarini boshqarish amaliyoti bilan integratsiyalashuviga qaratilgan. Ixtisoslashtirilgan kurs ishlari orqali talabalar IT infratuzilmasini boshqarish, AT xizmatlarini taqdim etish, IT xizmatlari stoli operatsiyalari va IT loyihalarini boshqarish kabi mavzularni o'rganadilar. Dastur talabalarni tashkiliy ehtiyojlarni samarali qondirish uchun AT tizimlari va xizmatlarini loyihalash, joriy etish va boshqarish uchun zarur bo‘lgan ko‘nikma va bilimlar bilan ta’minlaydi.",
+      "Nazariy ta'limdan tashqari, talabalar AT xizmatlarini joylashtirish va qo'llab-quvvatlash bo'yicha amaliy tajriba orttirish uchun amaliy loyihalar va amaliyotlarda qatnashadilar. Bu tajribalar talabalarga yuqori sifatli AT xizmatlarini taqdim etish uchun zarur bo'lgan muammolarni hal qilish ko'nikmalarini, muloqot qobiliyatlarini va jamoaviy ishlash dinamikasini rivojlantirishga imkon beradi. Haqiqiy loyihalar ustida ishlash va sanoat hamkorlari bilan hamkorlik qilish orqali talabalar IT xizmatlarini boshqarishda turli muammolarni hal qilishni o'rganadilar va tashkilot muvaffaqiyatiga hissa qo'shadilar.",
+      "Bundan tashqari, kompyuter injiniringi: IT xizmati mutaxassisligi talabalarni turli sohalarda, jumladan texnologiya kompaniyalari, moliya institutlari, sog'liqni saqlash tashkilotlari va davlat idoralarida IT xizmatlarini boshqarish rollarida martabaga tayyorlaydi. Bitiruvchilar IT-xizmat menejerlari, tizим ma'murlari, tarmoq muhandislari yoki IT-maslahatchilar va boshqalar rollarini bajarishlari mumkin. Bitiruvchilar kompyuter injiniringi sohasidagi tajribani IT xizmatlarini boshqarishga yo'naltirish orqali birlashtirib, bugungi raqamli dunyoda IT tizimlari va xizmatlarining samaradorligi, ishonchliligi va xavfsizligini ta'minlashda hal qiluvchi rol o'ynaydi."
+    ],
+    "descrption_ru": [
+      "Компьютерное инженерное дело: Специализация по IT-сервису на университетском уровне предназначена для интеграции принципов компьютерной инженерии с управлением информационными технологиями (IT) в практике предоставления IT-услуг. Специализированные курсы позволяют студентам изучать такие темы, как управление IT-инфраструктурой, предоставление IT-услуг, операции с IT-службами и управление IT-проектами. Программа предоставляет студентам навыки и знания, необходимые для проектирования, внедрения и управления IT-системами и услугами для эффективного удовлетворения организационных потребностей.",
+      "Помимо теоретического обучения, студенты участвуют в практических проектах и стажировках, чтобы приобрести практический опыт в развертывании и поддержке IT-услуг. Этот опыт позволяет студентам развивать навыки решения проблем, коммуникационные способности и динамику командной работы, необходимые для предоставления качественных IT-услуг. Работая над реальными проектами и сотрудничая с промышленными партнерами, студенты учатся решать различные проблемы в управлении IT-услугами и вносить вклад в успех организации.",
+      "Кроме того, специализация по IT-сервису готовит студентов к карьере в различных областях, включая технологические компании, финансовые институты, медицинские организации и государственные учреждения. Выпускники могут занимать должности менеджеров IT-услуг, системных администраторов, сетевых инженеров или IT-консультантов и других специалистов. Объединяя опыт в области компьютерной инженерии с управлением IT-услугами, выпускники играют решающую роль в обеспечении эффективности, надежности и безопасности IT-систем и услуг в современном цифровом мире."
+    ],
+    "descrption_en": [
+      "Computer Engineering: The university-level IT service specialization focuses on integrating computer engineering principles with the practice of managing information technology (IT) services. Through specialized coursework, students learn about topics such as IT infrastructure management, IT service delivery, IT service desk operations, and IT project management. The program equips students with the skills and knowledge necessary to design, implement, and manage IT systems and services to effectively meet organizational needs.",
+      "In addition to theoretical education, students engage in practical projects and internships to gain hands-on experience in deploying and supporting IT services. These experiences allow students to develop problem-solving skills, communication abilities, and team dynamics necessary to deliver high-quality IT services. By working on real-world projects and collaborating with industry partners, students learn to address various challenges in IT service management and contribute to organizational success.",
+      "Furthermore, the IT service specialization in computer engineering prepares students for careers in various fields, including technology companies, financial institutions, healthcare organizations, and government agencies. Graduates can take on roles such as IT service managers, system administrators, network engineers, or IT consultants, among others. By combining expertise in computer engineering with a focus on IT service management, graduates play a crucial role in ensuring the efficiency, reliability, and security of IT systems and services in today's digital world."
+    ]
+  },
+  {
+    "id": 25,
+    "image": "25.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Neft va gaz ishi (faoliyat turlari bo'yicha)",
+    "title_ru": "Нефть и газ (по видам деятельности)",
+    "title_en": "Oil and Gas (by types of activities)",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очно",
+        "duration_ru": "4 года",
+        "language_ru": "Узбекский язык",
+        "format_en": "Full-time",
+        "duration_en": "4 years",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "duration_uz": "5 yil",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Заочно",
+        "duration_ru": "5 лет",
+        "language_ru": "Узбекский язык",
+        "format_en": "Part-time",
+        "duration_en": "5 years",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi neft va gaz ishi yo'nalishi neft va gaz sanoatining iqtisodiy, boshqaruv va texnik jihatlariga qaratilgan. Maxsus kurs ishlari orqali talabalar neft geologiyasi, suv omborlari muhandisligi, energetika iqtisodiyoti va loyihalarni boshqarish kabi mavzularni o'rganadilar. Dastur talabalarni global energetika landshafti va neft va gaz biznesining murakkabliklari haqida keng qamrovli tushunchalar bilan ta'minlaydi.",
+      "Nazariy ta’limdan tashqari talabalar neft va gaz sanoati sohasida amaliy loyihalar, dala ishlari va amaliyot o‘tashlari bilan shug‘ullanadilar. Ushbu amaliy tajribalar talabalarga nazariy tushunchalarni real sharoitlarda qo‘llash, sanoat operatsiyalari, qoidalar va bozor dinamikasi haqida tushunchaga ega bo‘lish imkonini beradi. Sanoat mutaxassislari bilan birga ishlash orqali talabalar neft va gaz sektoridagi qiyinchiliklar va imkoniyatlarni hal qilish uchun zarur bo'lgan ko'nikmalar va tajribalarni rivojlantiradilar.",
+      "Bundan tashqari, neft va gaz ishi mutaxassisligi talabalarni energetika sanoatining turli sohalarida, jumladan, qidiruv va qazib olish kompaniyalarida, energiya konsalting firmalarida, davlat idoralarida va moliya institutlarida martaba uchun tayyorlaydi. Bitiruvchilar neft muhandislari, energetika bo'yicha tahlilchilar, loyiha menejerlari yoki biznesni rivojlantirish bo'yicha mutaxassislar va boshqalar rollarini bajarishlari mumkin. Texnik bilimlarni ishbilarmonlik qobiliyati bilan birlashtirgan holda, bitiruvchilar global neft va gaz biznesida innovatsiyalar, barqarorlik va strategik qarorlar qabul qilishda hal qiluvchi rol o'ynaydi."
+    ],
+    "descrption_ru": [
+      "Специализация на уровне университета в области нефти и газа ориентирована на экономические, управленческие и технические аспекты нефтегазовой промышленности. Благодаря специализированным курсам студенты изучают такие темы, как нефтяная геология, инженерия водохранилищ, энергетическая экономика и управление проектами. Программа предоставляет студентам комплексное понимание глобального энергетического ландшафта и сложностей нефтегазового бизнеса.",
+      "Помимо теоретического обучения, студенты занимаются практическими проектами, полевыми работами и стажировками в нефтегазовой отрасли. Этот практический опыт позволяет студентам применять теоретические знания в реальных условиях, понимать производственные процессы, нормативы и динамику рынка. Работая с отраслевыми специалистами, студенты развивают навыки и опыт, необходимые для решения проблем и использования возможностей в нефтегазовом секторе.",
+      "Кроме того, специализация в области нефти и газа готовит студентов к карьере в различных областях энергетической промышленности, включая разведывательные и добывающие компании, энергетические консалтинговые фирмы, государственные учреждения и финансовые институты. Выпускники могут занимать должности нефтяных инженеров, аналитиков по энергетике, менеджеров проектов или специалистов по развитию бизнеса и другие. Объединяя технические знания с деловыми навыками, выпускники играют решающую роль в инновациях, устойчивом развитии и принятии стратегических решений в глобальном нефтегазовом бизнесе."
+    ],
+    "descrption_en": [
+      "The university-level oil and gas program focuses on the economic, managerial, and technical aspects of the oil and gas industry. Through specialized coursework, students study topics such as petroleum geology, reservoir engineering, energy economics, and project management. The program provides students with comprehensive insights into the global energy landscape and the complexities of the oil and gas business.",
+      "In addition to theoretical education, students engage in practical projects, fieldwork, and internships in the oil and gas industry. These practical experiences enable students to apply theoretical concepts in real-world settings, gaining insights into industry operations, regulations, and market dynamics. By working with industry professionals, students develop the skills and experience necessary to address challenges and seize opportunities in the oil and gas sector.",
+      "Furthermore, the oil and gas program prepares students for careers in various sectors of the energy industry, including exploration and production companies, energy consulting firms, government agencies, and financial institutions. Graduates can take on roles such as petroleum engineers, energy analysts, project managers, or business development specialists, among others. Combining technical knowledge with business acumen, graduates play a crucial role in driving innovation, sustainability, and strategic decision-making in the global oil and gas business."
+    ]
+  },
+  {
+    "id": 26,
+    "image": "26.1.png",
+    "languages_uz": "O'zbek tili",
+    "languages_ru": "Узбекский язык",
+    "languages_en": "Uzbek language",
+    "formats_uz": "Kunduzgi va Sirtqi",
+    "formats_ru": "Очное и заочное",
+    "formats_en": "Full-time and Part-time",
+    "title_uz": "Yo'l harakatini tashkil etish",
+    "title_ru": "Организация дорожного движения",
+    "title_en": "Traffic Management",
+    "items": [
+      {
+        "format_uz": "Kunduzgi",
+        "duration_uz": "4 yil",
+        "price": "12 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Очно",
+        "duration_ru": "4 года",
+        "language_ru": "Узбекский язык",
+        "format_en": "Full-time",
+        "duration_en": "4 years",
+        "language_en": "Uzbek language"
+      },
+      {
+        "format_uz": "Sirtqi",
+        "duration_uz": "5 yil",
+        "price": "10 000 000",
+        "language_uz": "O'zbek tili",
+        "format_ru": "Заочно",
+        "duration_ru": "5 лет",
+        "language_ru": "Узбекский язык",
+        "format_en": "Part-time",
+        "duration_en": "5 years",
+        "language_en": "Uzbek language"
+      }
+    ],
+    "descrption_uz": [
+      "Universitet darajasidagi Yo'l harakati tashkiloti yo'nalishi transport tizimlari, transport boshqaruvi va shahar rejalashtirishni o'rganishga qaratilgan. Ixtisoslashtirilgan kurs ishlari orqali talabalar transport muhandisligi, transport infratuzilmasini loyihalash, transport oqimi tahlili va barqaror transport amaliyoti kabi mavzularni o'rganadilar. Dastur talabalarni odamlar va yuklarning samarali va xavfsiz harakatlanishini ta'minlash uchun transport tizimlarini rejalashtirish, loyihalash va boshqarish uchun zarur bo'lgan bilim va ko'nikmalar bilan ta'minlaydi.",
+      "Nazariy ta'limdan tashqari, talabalar yo'l harakati tahlili va boshqaruvi bo'yicha amaliy tajriba orttirish uchun amaliy loyihalar va dala ishlari bilan shug'ullanadilar. Bu tajribalar talabalarga nazariy tushunchalarni real hayotdagi yo‘l harakati stsenariylariga qo‘llash, muammolarni hal qilish ko‘nikmalarini rivojlantirish hamda yo‘l tirbandligini bartaraf etish va harakatchanlikni yaxshilash uchun samarali yechimlarni taklif qilish imkonini beradi. Sanoat hamkorlari bilan hamkorlikda transport loyihalari ustida ishlash orqali talabalar shahar transportini rejalashtirish va boshqarishning murakkab muammolarini hal qilishni o'rganadilar.",
+      "Bundan tashqari, Yo'l harakati tashkiloti mutaxassisligi talabalarni transport rejalashtirish agentliklarida, muhandislik firmalarida, davlat idoralarida va konsalting kompaniyalarida martaba uchun tayyorlaydi. Bitiruvchilar transport muhandislari, transportni rejalashtiruvchilar, shahar dizaynerlari yoki siyosat tahlilchilari kabi rollarni bajarishlari mumkin. Yo'l harakati muhandisligi bo'yicha tajribani transportni rejalashtirish va boshqarishga yo'naltirish bilan birlashtirgan holda, bitiruvchilar jamiyatlar ehtiyojlarini qondiradigan va iqtisodiy rivojlanishni qo'llab-quvvatlaydigan barqaror va bardoshli transport tizimlarini shakllantirishda hal qiluvchi rol o'ynaydi."
+    ],
+    "descrption_ru": [
+      "Специализация на уровне университета в области организации дорожного движения ориентирована на изучение транспортных систем, управления транспортом и городского планирования. Благодаря специализированным курсам студенты изучают такие темы, как транспортная инженерия, проектирование транспортной инфраструктуры, анализ транспортных потоков и устойчивые транспортные практики. Программа предоставляет студентам знания и навыки, необходимые для планирования, проектирования и управления транспортными системами, обеспечивающими эффективное и безопасное передвижение людей и грузов.",
+      "Помимо теоретического обучения, студенты занимаются практическими проектами и полевыми работами по анализу и управлению дорожным движением. Этот практический опыт позволяет студентам применять теоретические концепции в реальных сценариях дорожного движения, развивать навыки решения проблем и предлагать эффективные решения для устранения заторов и улучшения мобильности. Работая над транспортными проектами в сотрудничестве с отраслевыми партнерами, студенты учатся решать сложные проблемы планирования и управления городским транспортом.",
+      "Кроме того, специализация в области организации дорожного движения готовит студентов к карьере в агентствах по планированию транспорта, инженерных фирмах, государственных учреждениях и консалтинговых компаниях. Выпускники могут занимать должности транспортных инженеров, планировщиков транспорта, городских дизайнеров или аналитиков по политике. Объединяя опыт в области транспортной инженерии с планированием и управлением транспортом, выпускники играют решающую роль в создании устойчивых и устойчивых транспортных систем, отвечающих потребностям общества и поддерживающих экономическое развитие."
+    ],
+    "descrption_en": [
+      "The university-level traffic management program focuses on the study of transportation systems, traffic management, and urban planning. Through specialized coursework, students explore topics such as transportation engineering, infrastructure design, traffic flow analysis, and sustainable transportation practices. The program equips students with the knowledge and skills necessary to plan, design, and manage transportation systems that ensure the efficient and safe movement of people and goods.",
+      "In addition to theoretical education, students gain hands-on experience through practical projects and fieldwork related to traffic analysis and management. This practical experience allows students to apply theoretical concepts to real-world traffic scenarios, develop problem-solving skills, and propose effective solutions to alleviate congestion and improve mobility. Working on transportation projects in collaboration with industry partners, students learn to address the complex challenges of urban transportation planning and management.",
+      "Furthermore, the traffic management specialization prepares students for careers in transportation planning agencies, engineering firms, government agencies, and consulting companies. Graduates can take on roles such as transportation engineers, planners, urban designers, or policy analysts. By combining expertise in traffic engineering with transportation planning and management, graduates play a crucial role in shaping sustainable and resilient transportation systems that meet community needs and support economic development."
+    ]
+  }
+]

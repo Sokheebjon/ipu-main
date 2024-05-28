@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "1.jpg",
+    "bannerImg": "1.jpg",
+    "category": "Education",
+    "title_uz": "ERASMUS '+' ",
+    "title_ru": "ЕРАСМУС '+'",
+    "title_en": "ERASMUS '+'",
+    "author": "Admin",
+    "authorImg": "author.png",
+    "publishedDate": "2023-01-28",
+    "totalView": "77",
+    "description_uz": "Universitet rektori O.N.Bozorov hamda xalqaro bo'lim boshlig'i A.Shohjahon Varna Iqtisodiyot universitetida “Erasmus+” dasturi doirasida ketma-ket to‘rtinchi ...",
+    "description_ru": "Ректор университета О.Н. Бозоров и руководитель международного отдела А.Шохжахон приняли участие в четвертой встрече в рамках программы 'Erasmus+' в Университете экономики г. Варна...",
+    "description_en": "University rector O.N. Bozorov and head of the international department A. Shokhjahon participated in the fourth meeting within the 'Erasmus+' program at Varna University of Economics..."
+  },
+  {
+    "id": 3,
+    "image": "3.jpeg",
+    "bannerImg": "3.jpeg",
+    "category": "Education",
+    "title_uz": "Xalqaro hamkorlik",
+    "title_ru": "Международное сотрудничество",
+    "title_en": "International Cooperation",
+    "author": "Admin",
+    "authorImg": "author3.png",
+    "publishedDate": "2023-03-04",
+    "totalView": "77",
+    "description_uz": "#Xalqaro_hamkorlikI IQTISODIYOT VA PEDAGOGIKA UNIVERSITETI ✨✨ Xabaringiz bor, universitetimiz vakillari joriy yilning 1-10-fevral kunlari Turkiya hamda Ozarbayjon universitetlariga Xalqaro va ilmiy hamkorlik uchun xizmat safarida bo'lib qaytishgan edi.",
+    "description_ru": "ИКТИСАДИЯТ ВА ПЕДАГОГИКА УНИВЕРСИТЕТИ ✨✨ У нас есть новости, представители нашего университета с 1 по 10 февраля текущего года были в командировке в университеты Турции и Азербайджана для международного и научного сотрудничества.",
+    "description_en": "ECONOMICS AND PEDAGOGY UNIVERSITY ✨✨ We have news, representatives of our university from February 1 to 10 of this year were on a business trip to universities in Turkey and Azerbaijan for international and scientific cooperation."
+  },
+  {
+    "id": 2,
+    "image": "2.jpeg",
+    "bannerImg": "2.jpeg",
+    "category": "Education",
+    "title_uz": "Yevropa ittifoqining 'Erasmus+' loyihasi doirasida universitetimizga Bolgariyaning Varna Iqtisodiyot universiteti vakili Evgeni Raychev tashrifi.",
+    "title_ru": "Представитель Варненского экономического университета Болгарии, Евгений Райчев, выступил в нашем университете в рамках программы 'Erasmus+' Европейского союза.",
+    "title_en": "Representative of Varna University of Economics of Bulgaria, Evgeni Raychev, addressed our university within the framework of the 'Erasmus+' program of the European Union.",
+    "author": "Admin",
+    "authorImg": "author2.png",
+    "publishedDate": "2023-04-05",
+    "totalView": "77",
+    "description_uz": "Yevropa ittifoqining 'Erasmus+' loyihasi doirasida universitetimizga Bolgariyaning Varna Iqtisodiyot universiteti vakili Evgeni Raychev tashrif buyurdi.",
+    "description_ru": "Представитель Варненского экономического университета Болгарии, Евгений Райчев, выступил в нашем университете в рамках программы 'Erasmus+' Европейского союза.",
+    "description_en": "Representative of Varna University of Economics of Bulgaria, Evgeni Raychev, addressed our university within the framework of the 'Erasmus+' program of the European Union."
+  }
+]
