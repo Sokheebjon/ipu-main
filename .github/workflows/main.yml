@@ -38,4 +38,4 @@ jobs:
 
       - name: Deploy
         run: |
-          - sudo cp -R dist/* /var/www/ipu-main/html
+          - sudo cp -R build/* /var/www/ipu-main/html
