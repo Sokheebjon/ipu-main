@@ -93,7 +93,7 @@ const HomeSlider = () => {
                       data-wow-duration="1.2s"
                     >
                       <a
-                        href="http://ipu.educon.uz/sign-in"
+                        href="https://ipu.educon.uz/sign-in"
                         className="react-btn-border"
                       >
                         {intl.formatMessage({
@@ -173,7 +173,7 @@ const HomeSlider = () => {
                       data-wow-duration="1.2s"
                     >
                       <a
-                        href="http://ipu.educon.uz/sign-in"
+                        href="https://ipu.educon.uz"
                         className="react-btn-border"
                       >
                         {intl.formatMessage({
