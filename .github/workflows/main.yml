@@ -4,9 +4,10 @@ on:
   push:
     branches:
       - main
+      - dev 
 jobs:
   build:
-    runs-on: ${{ github.ref == 'refs/heads/main' && 'ipu-main' }}
+    runs-on: ${{ github.ref == 'refs/heads/main' && 'ipu-main' || 'reg-educon-dev' }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -14,8 +15,8 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '20'
-
+          node-version: '20.15.0'
+      
       - name: Add yarn globally
         run: npm install --global yarn
 
@@ -26,16 +27,17 @@ jobs:
         run: |
           if [ "${{ github.ref }}" == "refs/heads/main" ]; then
             echo "Running production build"
-            sudo cp .env.production .env
-            npx nx run-many --target=generate-prod 
-            npx nx run-many --target=build --production
+            CI=false
+            yarn build
           else
             echo "Running development build"
-            sudo cp .env.development .env
-            npx nx run-many --target=generate-dev 
-            npx nx run-many --target=build --development
+            yarn build:dev
           fi
 
       - name: Deploy
         run: |
-          - sudo cp -R build/* /var/www/ipu-main/html
+          if [ "${{ github.ref }}" == "refs/heads/main" ]; then
+            cp -a ~/frontend-main/actions-runner/_work/ipu-main/ipu-main/build/. /var/www/ipu-main/html
+          else
+            cp -a ~/front-registration-runner/actions-runner/_work/registrationEducon/registrationEducon/dist/. /var/www/registrationdev.educon.uz/html
+          fi

@@ -544,7 +544,7 @@ const InstructorDetailsMain = () => {
 
   return (
     <>
-      <div className="profile-top back__course__area pt---120 pb---90">
+      <div className="profile-top back__course__area pt---60 pb---30">
         <div className="container">
           <div className="row">
             <div className="col-lg-3">
@@ -727,21 +727,41 @@ const InstructorDetailsMain = () => {
                     pragmatikasi. Qarshi “Intellekt” Nashriyoti 2023. <br />
                   </p>
                   <h4>
-                    3. Kafedra yutuqlari <br />
-                    Talabalar hayoti va ularning yutuqlari (o‘quv va ilmiy
-                    sohalardagi yutuqlari, nomdor stipendiyalar sohiblari)
+                    Xalqaro va respublika nufuzli tanlovlarida sovrinli
+                    o‘rinlarni qo‘lga kiritgan va mukofot (diplom)larga sazovor
+                    bo‘lgan professor-o‘qituvchilar
                   </h4>
                   <p>
-                    Kafedra talabasi Rustam Qosimjonov shahmat bo‘yicha Osiyo
-                    chempioni (1998 y.), Jahon chempionati kumush medal
-                    sohibi(1999 y.), FIDE yo‘nalishi bo‘yicha jahon chempioni
-                    (2004 y.). (rahbar dos. Madrahimov). Xalqaro shaxmat ustasi
-                    Nodira Nodirjonova shaxmat bo‘yicha O‘zbekiston chempioni
-                    (2017 y). Kafedra talabalari Maxarov Q.T. (2009 y. Rahbar:
-                    Madrahimov Sh.), Raximova M.A. (2011 y. Rahbar: Maxarov T.)
-                    Beruniy nomidagi Davlat stipendiyasi sovrindori bo‘lgan.
-                    Ibrohimova Zulayxo Ergash qizi (2009 y. Rahbar: Hakimov M.)
-                    Mirzo Ulug’bek nomidagi Davlat stipendiati bo‘lgan.
+                    Dosent M.X. Hakimov 2007 yilda “Inglizcha-ruscha-o‘zbekcha
+                    komp’yuter ilmi bo‘yicha izohli lug’at” nomli o‘quv
+                    qo‘llanmasi «Yilning eng yaxshi darsligi va o‘quv
+                    qo‘llanmasi muallifi» Respublika tanlovining g’olibi
+                    sifatida II darajali diplom va pul mukofoti bilan
+                    taqdirlangan. <br />
+                    2014 yilda dosentlar Hakimov M.X., Gaynazarov S.M.
+                    “Berilganlar bazasini boshqarish tizimlari” nomli oliy o‘quv
+                    yurtlari uchun darsligi «Yilning eng yaxshi darsligi va
+                    o‘quv qo‘llanmasi muallifi» Respublika tanlovining g’olibi
+                    sifatida I darajali diplom va pul mukofoti bilan
+                    taqdirlangan. <br />
+                    2018 yilda Hakimov M.X. va 2021 yilda Polatov A.M.
+                    International Academy of Injineering (Xalqaro Muxandislar
+                    Akademiyasi)ning muxbir a’zoligiga saylanganlar. <br />{" "}
+                    Kafedrasi o‘qituvchisi R.X.Baxromov 2020 yilda Koronavirus
+                    pandemiyasi davrida fidoyilik ko‘rsatgan xodimlarning
+                    mehnatini e’tirof etish, ularni rag’batlantirish maqsadida
+                    Davlatimiz rahbarining 2020 yil 26-maydagi “Mehr-saxovat”
+                    ko‘krak nishonini ta’sis etish to‘g’risida”gi PF-5999-son
+                    Farmoniga asosan, pandemiyaga qarshi kurashish, aholi
+                    salomatligini muntazam ravishda muhofaza qilib borishda
+                    jonbozlik ko‘rsatgan Oliy va o‘rta maxsus ta’lim vazirligi
+                    va oliy ta’lim muassasalarida faoliyat yuritib kelayotgan
+                    o‘z kasbining chinakam fidoyi xodimi “Mehr-saxovat” ko‘krak
+                    nishoni bilan taqdirlandi. <br /> 2023 yilda professor
+                    Polatov Asxad Muxamedjanovich O‘zbekiston faxriylarining
+                    ijtimoiy faoliyatini qo‘llab – quvvatlash “Nuroniy”
+                    jamg’armasi Vasiylik Kengashi qarori bilan “MEHNAT FAXRIYSI
+                    ” ko‘krak nishoni bilan taqdirlangan.
                   </p>
 
                   <h3>4. Xorijiy tillar kafedrasida o‘qitiladigan fanlar</h3>
@@ -763,7 +783,7 @@ const InstructorDetailsMain = () => {
                       ))}
                     </tbody>
                   </table>
-                  <h4>3. Тадқиқотчилар ва илмий ишлар тўғрисида</h4>
+                  <h4>3. Tadqiqotchilar va ilmiy ishlar tugrisida</h4>
                   <table class="table table-hover">
                     <thead>
                       <tr>

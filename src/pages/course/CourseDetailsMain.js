@@ -80,8 +80,7 @@ const CourseDetailsMain = (props) => {
 
             <div className="react-sidebar react-back-course2 ml----30">
               <a
-                href="https://ipu.educon.uz/sign-in"
-                target="_blank"
+                href="http://ipu.educon.uz/sign-in"
                 className="start-btn btn btn-primary w-100 py-3"
               >
                 {intl.formatMessage({

@@ -21,7 +21,7 @@ const InstructorDetailsMain = () => {
 
   return (
     <>
-      <div className="profile-top back__course__area pt---120 pb---90">
+      <div className="profile-top back__course__area pt---60 pb---30">
         <div className="container">
           <div className="row">
             <div className="col-lg-3">

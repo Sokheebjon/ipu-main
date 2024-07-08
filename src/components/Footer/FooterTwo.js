@@ -30,7 +30,7 @@ const FooterTwo = (props) => {
                   </h3>
                 </div>
                 <div className="col-lg-5 text-right">
-                  <Link to="https://ipu.educon.uz/sign-in">
+                  <Link to="http://ipu.educon.uz/sign-in">
                     {ctaBtn ? ctaBtn : "Ariza topshirish"}
                     <svg
                       xmlns="http://www.w3.org/2000/svg"

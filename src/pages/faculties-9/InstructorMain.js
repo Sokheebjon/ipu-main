@@ -560,7 +560,7 @@ const InstructorDetailsMain = () => {
 
   return (
     <>
-      <div className="profile-top back__course__area pt---120 pb---90">
+      <div className="profile-top back__course__area pt---60 pb---30">
         <div className="container">
           <div className="row">
             <div className="col-lg-3">
@@ -787,7 +787,7 @@ const InstructorDetailsMain = () => {
                       ))}
                     </tbody>
                   </table>
-                  <h4>3. Тадқиқотчилар ва илмий ишлар тўғрисида</h4>
+                  <h4>3. Tadqiqotchilar va ilmiy ishlar tugrisida</h4>
                   <table class="table table-hover">
                     <thead>
                       <tr>

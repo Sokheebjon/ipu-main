@@ -12,7 +12,7 @@ const InstructorMain = () => {
   )?.selectedLang;
   return (
     <>
-      <div className="instructors___page pt---120 pb---140">
+      <div className="instructors___page pt---60 pb0">
         <div className="container pb---60">
           <div className="row">
             {instructors

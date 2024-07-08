@@ -13,7 +13,7 @@ const InstructorMain = () => {
 
   return (
     <>
-      <div className="instructors___page pt---60 pb---40">
+      <div className="instructors___page pt---60 pb-0">
         <div className="container">
           <div className="row justify-content-center">
             {instructors
