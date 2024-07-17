@@ -64,12 +64,14 @@ const InstructorMain = () => {
         },
         {
           id: "#",
+          url: "https://kmisj.uz/index.php/kmisj/index",
           text_uz: "IPU ilmiy jurnallari",
           text_ru: "Научные журналы ВУЗов",
           text_en: "University Scientific Journals",
         },
         {
           id: "#",
+          url: "http://www.ietisociety.org/ius.html",
           text_uz: "Ilmiy Tadqiqot Institutlari",
           text_ru: "Научные исследовательские институты",
           text_en: "Research Institutes",
@@ -126,7 +128,7 @@ const InstructorMain = () => {
 
                   {d.list.map((item) => (
                     <div className="w-100 es-list-item py-2">
-                      <Link to={`#`}>
+                      <a href={item.url ? `${item.url}` : "/"} target="_blank">
                         <div className="container" style={{ height: "100%" }}>
                           <p
                             style={{
@@ -143,7 +145,7 @@ const InstructorMain = () => {
                             - {getProductName(item, "text", lang)}
                           </p>
                         </div>
-                      </Link>
+                      </a>
                     </div>
                   ))}
                 </div>
