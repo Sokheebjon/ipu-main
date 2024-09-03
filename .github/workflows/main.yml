@@ -37,7 +37,7 @@ jobs:
       - name: Deploy
         run: |
           if [ "${{ github.ref }}" == "refs/heads/main" ]; then
-            cp -a ~/ipu-main-front/actions-runner/_work/ipu-main/ipu-main/build/. /var/www/ipuedu.uz/html
+            cp -a /home/ipuedu-runner/actions-runner/_work/ipu-main/ipu-main/build/. /var/www/ipuedu.uz/html
           else
             cp -a ~/front-registration-runner/actions-runner/_work/registrationEducon/registrationEducon/dist/. /var/www/registrationdev.educon.uz/html
           fi
