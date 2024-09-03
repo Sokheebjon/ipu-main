@@ -7,7 +7,7 @@ on:
       - dev 
 jobs:
   build:
-    runs-on: ${{ github.ref == 'refs/heads/main' && 'ipu-main' || 'reg-educon-dev' }}
+    runs-on: ${{ github.ref == 'refs/heads/main' && 'ipuedu' || 'reg-educon-dev' }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
