@@ -26,9 +26,8 @@ const ContactInfo = (props) => {
         </em>
         <span className="text">
           <em> {intl.formatMessage({ id: "COMMON.CONTACT" })}</em>
-          <a href="#">
-            {intl.formatMessage({ id: "COMMON.TELEPHONE" })}: (+998)
-            78-113-19-19
+          <a href="tel:998752236060">
+            {intl.formatMessage({ id: "COMMON.TELEPHONE" })}: +(998) 75-223-60-60
           </a>
           <a href="#">
             {intl.formatMessage({ id: "COMMON.MAIL" })}: ipu@ipu-edu.uz
