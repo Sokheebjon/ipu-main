@@ -77,42 +77,58 @@ const HomeSlider = () => {
                       Great Quality Cocial life
                     </span> */}
                     <h2
-                      className="slider-title wow animate__fadeInUp"
-                      data-wow-duration="1s"
+                        className="slider-title wow animate__fadeInUp"
+                        data-wow-duration="1s"
                     >
                       {intl.formatMessage({
-                        id: "COMMON.SLIDER_1_1",
-                      })}{" "}
-                      <br />
+                        id: "COMMON.SLIDER_2_1",
+                      })}
+                      <br/>{" "}
                       {intl.formatMessage({
-                        id: "COMMON.SLIDER_1_2",
+                        id: "COMMON.SLIDER_2_2",
+                      })}{" "}
+                      <br/>
+                      {intl.formatMessage({
+                        id: "COMMON.SLIDER_2_3",
                       })}
                     </h2>
+                    {/*<h2*/}
+                    {/*  className="slider-title wow animate__fadeInUp"*/}
+                    {/*  data-wow-duration="1s"*/}
+                    {/*>*/}
+                    {/*  {intl.formatMessage({*/}
+                    {/*    id: "COMMON.SLIDER_1_1",*/}
+                    {/*  })}{" "}*/}
+                    {/*  <br />*/}
+                    {/*  {intl.formatMessage({*/}
+                    {/*    id: "COMMON.SLIDER_1_2",*/}
+                    {/*  })}*/}
+                    {/*</h2>*/}
                     <div
-                      className="slider-btn wow animate__fadeInUp"
-                      data-wow-duration="1.2s"
+                        className="slider-btn wow animate__fadeInUp"
+                        data-wow-duration="1.2s"
                     >
-                      <a
-                        href="http://ipu.educon.uz/sign-in"
-                        className="react-btn-border"
-                      >
-                        {intl.formatMessage({
-                          id: "COMMON.SUBMIT_AN_APPLICATION",
-                        })}
-                      </a>
+                      {/*<a*/}
+                      {/*  href="http://ipu.educon.uz/sign-in"*/}
+                      {/*  className="react-btn-border"*/}
+                      {/*>*/}
+                      {/*  {intl.formatMessage({*/}
+                      {/*    id: "COMMON.SUBMIT_AN_APPLICATION",*/}
+                      {/*  })}*/}
+                      {/*</a>*/}
                     </div>
                   </div>
                 </div>
                 <div
-                  className="event__video-btn--play wow animate__fadeInUp"
-                  data-wow-duration="1.4s"
+                    className="event__video-btn--play wow animate__fadeInUp"
+                    data-wow-duration="1.4s"
                 >
                   <Link
-                    to="#"
-                    className="event__video-btn--play-btn custom-popup"
-                    onClick={() => {
-                      openModal();
-                    }}
+                      to="#"
+                      className="event__video-btn--play-btn custom-popup"
+                      onClick={() => {
+                        openModal();
+                      }}
                   >
                     <i className="arrow_triangle-right"></i>
                     {/* <em>
@@ -168,19 +184,19 @@ const HomeSlider = () => {
                         id: "COMMON.SLIDER_2_3",
                       })}
                     </h2>
-                    <div
-                      className="slider-btn wow animate__fadeInUp"
-                      data-wow-duration="1.2s"
-                    >
-                      <a
-                        href="http://ipu.educon.uz/sign-in"
-                        className="react-btn-border"
-                      >
-                        {intl.formatMessage({
-                          id: "COMMON.SUBMIT_AN_APPLICATION",
-                        })}
-                      </a>
-                    </div>
+                    {/*<div*/}
+                    {/*  className="slider-btn wow animate__fadeInUp"*/}
+                    {/*  data-wow-duration="1.2s"*/}
+                    {/*>*/}
+                    {/*  <a*/}
+                    {/*    href="http://ipu.educon.uz/sign-in"*/}
+                    {/*    className="react-btn-border"*/}
+                    {/*  >*/}
+                    {/*    {intl.formatMessage({*/}
+                    {/*      id: "COMMON.SUBMIT_AN_APPLICATION",*/}
+                    {/*    })}*/}
+                    {/*  </a>*/}
+                    {/*</div>*/}
                   </div>
                 </div>
                 <div
