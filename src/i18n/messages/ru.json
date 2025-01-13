@@ -78,7 +78,8 @@
   "COMMON.SOM": "сум",
   "COMMON.DURATION": "Продолжительность",
   "COMMON.LANGUAGE_OF_EDUCATION": "Язык обучения",
-  "COMMON.COMMISSION": "Приемная комиссия",
+  "COMMON.COMMISSION": "Выпускные экзамены (Live)",
   "COMMON.FAKULTET_TEXT": "Факультет информационных технологий и цифровой экономики",
-  "COMMON.FAKULTET_TEXT2": "Факультет иностранных языков и физической культуры"
+  "COMMON.FAKULTET_TEXT2": "Факультет иностранных языков и физической культуры",
+  "COMMON.FINAL_EXAM_LIVE": "Выпускные экзамены (в прямом эфире)"
 }

@@ -191,20 +191,20 @@ const MenuItems = (props) => {
         </ul>
       </li>
 
-      <li
-        className={
-          location.pathname === "students-komissiya" ? "menu-active" : ""
-        }
-      >
-        <Link to="#">{intl.formatMessage({ id: "COMMON.STUDENTS" })}</Link>
-      </li>
+      {/*<li*/}
+      {/*  className={*/}
+      {/*    location.pathname === "students-komissiya" ? "menu-active" : ""*/}
+      {/*  }*/}
+      {/*>*/}
+      {/*  <Link to="#">{intl.formatMessage({ id: "COMMON.STUDENTS" })}</Link>*/}
+      {/*</li>*/}
 
       <li
         className={
-          location.pathname === "students-komissiya" ? "menu-active" : ""
+          location.pathname === "/final-exams" ? "menu-active" : ""
         }
       >
-        <Link to="#">{intl.formatMessage({ id: "COMMON.COMMISSION" })}</Link>
+        <Link to="/final-exams">{intl.formatMessage({ id: "COMMON.COMMISSION" })}</Link>
       </li>
 
       <li className={location.pathname === "/contact" ? "menu-active" : ""}>
@@ -212,6 +212,7 @@ const MenuItems = (props) => {
           {intl.formatMessage({ id: "COMMON.CONTACT" })}
         </Link>
       </li>
+
     </>
   );
 };

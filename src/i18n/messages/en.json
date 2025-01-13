@@ -78,7 +78,8 @@
   "COMMON.SOM": "soum",
   "COMMON.DURATION": "Duration",
   "COMMON.LANGUAGE_OF_EDUCATION": "Language of education",
-  "COMMON.COMMISSION": "Admissions Committee",
+  "COMMON.COMMISSION": "Final exams (Live)",
   "COMMON.FAKULTET_TEXT": "Faculty of Information Technologies and Digital Economy",
-  "COMMON.FAKULTET_TEXT2": "Faculty of foreign languages ​​and physical culture"
+  "COMMON.FAKULTET_TEXT2": "Faculty of foreign languages ​​and physical culture",
+  "COMMON.FINAL_EXAM_LIVE": "Final exams (Live)"
 }

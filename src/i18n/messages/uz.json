@@ -79,8 +79,8 @@
   "COMMON.SOM": "so'm",
   "COMMON.DURATION": "Davomiyligi",
   "COMMON.LANGUAGE_OF_EDUCATION": "Ta'lim tili",
-  "COMMON.COMMISSION": "Qabul kommisiyasi",
+  "COMMON.COMMISSION": "Yakuniy nazoratlar (Live)",
   "COMMON.FAKULTET_TEXT": "Axborot texnologiyalari va raqamli iqtisodiyot fakulteti",
-  "COMMON.FAKULTET_TEXT2": "Xorijiy tillar va jismoniy madaniyat fakulteti"
-
+  "COMMON.FAKULTET_TEXT2": "Xorijiy tillar va jismoniy madaniyat fakulteti",
+  "COMMON.FINAL_EXAM_LIVE": "Yakuniy nazoratlar (Live)"
 }

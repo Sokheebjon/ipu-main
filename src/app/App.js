@@ -6,6 +6,7 @@ import Preloader from "../components/Preloader";
 
 import Home from "../pages/home";
 import About from "../pages/about";
+import FinalExamLive from "../pages/final-exam-live";
 import Course from "../pages/course";
 import CourseMagister from "../pages/course-magister";
 
@@ -76,6 +77,7 @@ const App = () => {
         <Routes>
           <Route path="/" exact element={<Home />} />
           <Route path="/about" element={<About />} />
+          <Route path="/final-exams" element={<FinalExamLive />} />
           <Route path="/departments" exact element={<Course />} />
           <Route
             path="/departments-magister"
